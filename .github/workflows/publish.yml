@@ -1,0 +1,60 @@
+# Turns a push to the "publish" branch into a GitHub Release, then points version.json at it.
+# tools/publish-download.sh (in the code repo) pushes that branch with NewEraCAD.zip, DRStone.zip and release.json.
+# Installed copies read version.json on main; every updater ever shipped accepts full download links in it,
+# so they follow the release without an app change. The branch is deleted afterwards so the zips don't stay in git.
+name: Publish
+on:
+  push:
+    branches: [publish]
+permissions:
+  contents: write
+concurrency: publish
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publish
+          path: drop
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: site
+      - name: Make the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          version=$(jq -r .version drop/release.json)
+          notes=$(jq -r .notes drop/release.json)
+          sha=$(jq -r .sha drop/release.json)
+          tag="v$version"
+          base="https://github.com/$REPO/releases/download/$tag"
+          # The release (and its zips) must exist before version.json mentions it.
+          if ! gh release view "$tag" -R "$REPO" >/dev/null 2>&1; then
+            gh release create "$tag" drop/NewEraCAD.zip drop/DRStone.zip -R "$REPO" --target main --latest \
+              --title "New Era CAD $version" \
+              --notes "$notes"$'\n\n'"Download **NewEraCAD.zip**, extract it, and double-click New Era CAD.exe. (DRStone.zip is the same program for copies older than the rename.) Built from $sha."
+          fi
+          cd site
+          # "zip" is what copies older than the rename download; newer ones use "download".
+          jq -n --arg v "$version" --arg z "$base/DRStone.zip" --arg d "$base/NewEraCAD.zip" --arg n "$notes" \
+            '{version: $v, zip: $z, download: $d, notes: $n}' > version.json
+          cat > README.md <<MD
+          # New Era CAD downloads
+
+          **Newest version: $version** - [Download NewEraCAD.zip](https://github.com/$REPO/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
+
+          What's new: $notes
+
+          Older versions and their notes: [Releases](https://github.com/$REPO/releases).
+
+          New Era CAD also checks here by itself: **Help > Check for updates**.
+          MD
+          git rm -q --cached --ignore-unmatch NewEraCAD.zip DRStone.zip
+          rm -f NewEraCAD.zip DRStone.zip
+          git add -A
+          git diff --cached --quiet || git -c user.name="New Era CAD build" -c user.email="noreply@github.com" commit -qm "New Era CAD $version"
+          git push -q origin main
+          git push -q origin --delete publish
