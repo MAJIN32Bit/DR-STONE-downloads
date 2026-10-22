@@ -1,6 +1,6 @@
 {
-  "version": "1.0.347",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.347/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.347/NewEraCAD.zip",
-  "notes": "Trim/Extend now works to arcs, circles and curves, and the Intersect snap finds where lines cross arcs (so you can Break there)."
+  "version": "1.0.349",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.349/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.349/NewEraCAD.zip",
+  "notes": "DXF export: sink cutouts with round corners are now written the way EasySTONE writes them, so layout software reads them correctly."
 }
