@@ -1,6 +1,6 @@
 {
-  "version": "1.0.297",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.297-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.297-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "3D view: select a top with its splash and apron, then press the new 3D view button (box icon next to Tangency test). Set material thickness, each piece's thickness and edges (blue = miter, black = square) in the 3D window."
+  "version": "1.0.301",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.301-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.301-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "3D view: right-click > Send to 3D into groups (kept with the job, pick a group in the 3D window), right-click > Tag as Top/Splash/Apron (Splash and Apron tools tag their own lines), blue edges cut at 45°, view angle and piece numbers shown, Copy details for reporting problems."
 }
