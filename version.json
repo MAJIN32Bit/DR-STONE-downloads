@@ -1,6 +1,6 @@
 {
-  "version": "1.0.339",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.339/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.339/NewEraCAD.zip",
-  "notes": "Text and measurements can now be moved to any layer with Change layer (for example to hide one note). New text still goes on the Text layer."
+  "version": "1.0.347",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.347/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.347/NewEraCAD.zip",
+  "notes": "Trim/Extend now works to arcs, circles and curves, and the Intersect snap finds where lines cross arcs (so you can Break there)."
 }
