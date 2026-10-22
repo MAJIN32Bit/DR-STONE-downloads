@@ -1,6 +1,6 @@
 {
-  "version": "1.0.309",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.309-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.309-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "3D: waterfalls. A waterfall drawn beside the end of a top folds down with a 45° miter; its apron and return fold on in a chain (blue line next to blue line = miter). The top's apron and the waterfall apron meet with a picture-frame seam. New tags: Waterfall, Waterfall apron, Waterfall return. Explode slider with dotted lines back to each piece, and an Explode tick box per piece."
+  "version": "1.0.312",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.312-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.312-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "3D: explode now pulls every piece apart (aprons, waterfall aprons, returns). Pieces are in one drop-down; click a piece in the view to pick it. Square/Miter edge buttons start off. Turn the view all the way round, including underneath. MILL TO text on waterfalls, aprons and returns given their own thickness."
 }
