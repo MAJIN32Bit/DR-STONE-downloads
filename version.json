@@ -1,6 +1,6 @@
 {
-  "version": "1.0.275",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.275/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.275/NewEraCAD.zip",
-  "notes": "Fixed: the program could close by itself when zooming a PDF quickly."
+  "version": "1.0.277",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.277/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.277/NewEraCAD.zip",
+  "notes": "PDF: zooming in on fine print is now much faster (only the part on screen is drawn)."
 }

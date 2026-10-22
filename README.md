@@ -1,8 +1,8 @@
 # New Era CAD downloads
 
-**Newest version: 1.0.275** - [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
+**Newest version: 1.0.277** - [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
 
-What's new: Fixed: the program could close by itself when zooming a PDF quickly.
+What's new: PDF: zooming in on fine print is now much faster (only the part on screen is drawn).
 
 Older versions and their notes: [Releases](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases).
 
