@@ -1,6 +1,6 @@
 {
-  "version": "1.0.216",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.216/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.216/NewEraCAD.zip",
-  "notes": "Downloads now come from GitHub Releases (no program changes)"
+  "version": "1.0.223",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.223/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.223/NewEraCAD.zip",
+  "notes": "Import DXF uses the normal Windows file window again, with Import as, Preview and favorite folders"
 }
