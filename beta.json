@@ -1,6 +1,6 @@
 {
-  "version": "1.0.312",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.312-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.312-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "3D: explode now pulls every piece apart (aprons, waterfall aprons, returns). Pieces are in one drop-down; click a piece in the view to pick it. Square/Miter edge buttons start off. Turn the view all the way round, including underneath. MILL TO text on waterfalls, aprons and returns given their own thickness."
+  "version": "1.0.323",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.323-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.323-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the newest normal features (1.0.318: Mirror tool, Print can turn off the info box). The Beta now finds new updates right away instead of a few minutes later."
 }
