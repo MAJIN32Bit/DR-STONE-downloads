@@ -1,6 +1,6 @@
 {
-  "version": "1.0.212",
-  "zip": "DRStone.zip",
-  "download": "NewEraCAD.zip",
-  "notes": "Import DXF window shows your Windows Quick access folders"
+  "version": "1.0.216",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.216/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.216/NewEraCAD.zip",
+  "notes": "Downloads now come from GitHub Releases (no program changes)"
 }
