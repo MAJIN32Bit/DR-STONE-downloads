@@ -1,8 +1,8 @@
 # New Era CAD downloads
 
-**Newest version: 1.0.226** - [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
+**Newest version: 1.0.228** - [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
 
-What's new: The Part / Layer list opens in the side panel and pushes the tools down
+What's new: Import preview is attached to the side of the Windows file window and moves with it
 
 Older versions and their notes: [Releases](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases).
 

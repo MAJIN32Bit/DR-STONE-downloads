@@ -1,6 +1,6 @@
 {
-  "version": "1.0.226",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.226/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.226/NewEraCAD.zip",
-  "notes": "The Part / Layer list opens in the side panel and pushes the tools down"
+  "version": "1.0.228",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.228/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.228/NewEraCAD.zip",
+  "notes": "Import preview is attached to the side of the Windows file window and moves with it"
 }
