@@ -1,5 +1,6 @@
 # Turns a push to the "publish" branch into a GitHub Release, then points version.json at it.
-# tools/publish-download.sh (in the code repo) pushes that branch with NewEraCAD.zip, DRStone.zip and release.json.
+# tools/publish-download.sh (in the code repo) pushes that branch with NewEraCAD.zip, DRStone.zip, NewEraCAD-Setup.exe
+# (the installer, from 1.0.281) and release.json.
 # Installed copies read version.json on main; every updater ever shipped accepts full download links in it,
 # so they follow the release without an app change. The branch is deleted afterwards so the zips don't stay in git.
 name: Publish
@@ -33,9 +34,11 @@ jobs:
           base="https://github.com/$REPO/releases/download/$tag"
           # The release (and its zips) must exist before version.json mentions it.
           if ! gh release view "$tag" -R "$REPO" >/dev/null 2>&1; then
-            gh release create "$tag" drop/NewEraCAD.zip drop/DRStone.zip -R "$REPO" --target main --latest \
+            files=(drop/NewEraCAD.zip drop/DRStone.zip)
+            [ -f drop/NewEraCAD-Setup.exe ] && files+=(drop/NewEraCAD-Setup.exe)
+            gh release create "$tag" "${files[@]}" -R "$REPO" --target main --latest \
               --title "New Era CAD $version" \
-              --notes "$notes"$'\n\n'"Download **NewEraCAD.zip**, extract it, and double-click New Era CAD.exe. (DRStone.zip is the same program for copies older than the rename.) Built from $sha."
+              --notes "$notes"$'\n\n'"To install: download **NewEraCAD-Setup.exe** and run it. Or download **NewEraCAD.zip**, extract it, and double-click New Era CAD.exe. (DRStone.zip is the same program for copies older than the rename.) Built from $sha."
           fi
           cd site
           # "zip" is what copies older than the rename download; newer ones use "download".
@@ -44,7 +47,10 @@ jobs:
           cat > README.md <<MD
           # New Era CAD downloads
 
-          **Newest version: $version** - [Download NewEraCAD.zip](https://github.com/$REPO/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
+          **Newest version: $version**
+
+          - **Install:** [Download NewEraCAD-Setup.exe](https://github.com/$REPO/releases/latest/download/NewEraCAD-Setup.exe) and run it (no admin password needed). It adds Start menu and desktop shortcuts, and .nec jobs open with a double-click.
+          - **Or without installing:** [Download NewEraCAD.zip](https://github.com/$REPO/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
 
           What's new: $notes
 
