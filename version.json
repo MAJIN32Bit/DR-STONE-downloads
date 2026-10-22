@@ -1,6 +1,6 @@
 {
-  "version": "1.0.318",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.318/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.318/NewEraCAD.zip",
-  "notes": "New Mirror tool (left/right, up/down or along a line, with a live preview; Make a copy on by default). Print: you can turn off the info box."
+  "version": "1.0.327",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.327/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.327/NewEraCAD.zip",
+  "notes": "New Era CAD now opens where its window was last time (same place and size, maximized if it was)."
 }
