@@ -1,6 +1,6 @@
 {
-  "version": "1.0.242",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.242/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.242/NewEraCAD.zip",
-  "notes": "Sidebar: drag its edge to make it wider (bigger photos) or thinner, and drag the dotted grip at its top to move it to the left or right side (also View > Sidebar on the left)."
+  "version": "1.0.245",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.245/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.245/NewEraCAD.zip",
+  "notes": "Sidebar: drag its edge to make it wider (bigger photos) or thinner, and drag the dotted grip at its top to move it to the left or right (also View > Sidebar on the left). Notes: a drop-down under the tools for job notes, saved in the job; a red ! shows when there's a note."
 }
