@@ -1,6 +1,6 @@
 {
-  "version": "1.0.251",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.251/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.251/NewEraCAD.zip",
-  "notes": "Notes: put your initials and press Submit; submitted notes are listed under the box with initials and date, and can be deleted (Ctrl+Z brings one back)."
+  "version": "1.0.255",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.255/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.255/NewEraCAD.zip",
+  "notes": "View PDF: open shop drawings in a panel beside the drawing (opposite the tools, swaps sides with them, or in its own window). Type a page number to jump to it."
 }
