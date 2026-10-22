@@ -1,6 +1,6 @@
 {
-  "version": "1.0.245",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.245/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.245/NewEraCAD.zip",
-  "notes": "Sidebar: drag its edge to make it wider (bigger photos) or thinner, and drag the dotted grip at its top to move it to the left or right (also View > Sidebar on the left). Notes: a drop-down under the tools for job notes, saved in the job; a red ! shows when there's a note."
+  "version": "1.0.247",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.247/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.247/NewEraCAD.zip",
+  "notes": "Text and measurements now always go on their own layers: each Part gets one Text layer and one Measurements layer, also when text is imported or moved to another Part."
 }
