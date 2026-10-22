@@ -1,6 +1,6 @@
 {
-  "version": "1.0.327",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.327/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.327/NewEraCAD.zip",
-  "notes": "New Era CAD now opens where its window was last time (same place and size, maximized if it was)."
+  "version": "1.0.329",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.329/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.329/NewEraCAD.zip",
+  "notes": "File > Open is for jobs only (DXFs come in with Import DXF). Open, Import and Export each start in the folder you used last time."
 }
