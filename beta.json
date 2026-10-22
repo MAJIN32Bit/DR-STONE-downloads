@@ -1,6 +1,6 @@
 {
-  "version": "1.0.303",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.303-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.303-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "3D: aprons and splashes that meet at a corner are now mitered together (no more overlap). Also fixes the picture size with Windows display scaling and an apron in the wrong place on angled tops."
+  "version": "1.0.309",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.309-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.309-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "3D: waterfalls. A waterfall drawn beside the end of a top folds down with a 45° miter; its apron and return fold on in a chain (blue line next to blue line = miter). The top's apron and the waterfall apron meet with a picture-frame seam. New tags: Waterfall, Waterfall apron, Waterfall return. Explode slider with dotted lines back to each piece, and an Explode tick box per piece."
 }
