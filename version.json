@@ -1,6 +1,6 @@
 {
-  "version": "1.0.223",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.223/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.223/NewEraCAD.zip",
-  "notes": "Import DXF uses the normal Windows file window again, with Import as, Preview and favorite folders"
+  "version": "1.0.226",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.226/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.226/NewEraCAD.zip",
+  "notes": "The Part / Layer list opens in the side panel and pushes the tools down"
 }
