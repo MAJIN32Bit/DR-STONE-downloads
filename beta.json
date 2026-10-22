@@ -1,6 +1,6 @@
 {
-  "version": "1.0.302",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.302-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.302-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "3D view fixes: the picture lines up with the piece numbers at any Windows display scaling; aprons that cross at an inside corner are both placed on their edges; Copy details tells more."
+  "version": "1.0.303",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.303-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.303-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "3D: aprons and splashes that meet at a corner are now mitered together (no more overlap). Also fixes the picture size with Windows display scaling and an apron in the wrong place on angled tops."
 }
