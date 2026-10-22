@@ -1,6 +1,6 @@
 {
-  "version": "1.0.286",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.286/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.286/NewEraCAD.zip",
-  "notes": "New: an installer. Run NewEraCAD-Setup.exe for Start menu and desktop shortcuts, and .nec jobs open with a double-click."
+  "version": "1.0.290",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.290/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.290/NewEraCAD.zip",
+  "notes": "Installer: you can now choose where to install New Era CAD."
 }
