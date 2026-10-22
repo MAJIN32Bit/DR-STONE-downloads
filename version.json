@@ -1,6 +1,6 @@
 {
-  "version": "1.0.290",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.290/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.290/NewEraCAD.zip",
-  "notes": "Installer: you can now choose where to install New Era CAD."
+  "version": "1.0.304",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.304/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.304/NewEraCAD.zip",
+  "notes": "Ctrl+click on a selected outline now unselects it."
 }
