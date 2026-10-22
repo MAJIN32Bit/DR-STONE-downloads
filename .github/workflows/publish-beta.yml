@@ -1,0 +1,46 @@
+# Turns a push to the "publish-beta" branch into a pre-release (v1.0.N-beta), then points beta.json at it.
+# tools/publish-beta.sh (in the code repo) pushes that branch with NewEraCADBeta.zip, NewEraCAD-Beta-Setup.exe and release.json.
+# Only "New Era CAD Beta" reads beta.json. version.json, README.md and the "latest" release (the normal build) are
+# left alone, and a pre-release is never marked latest, so .../releases/latest/download/... links keep the normal build.
+name: Publish beta
+on:
+  push:
+    branches: [publish-beta]
+permissions:
+  contents: write
+concurrency: publish
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: publish-beta
+          path: drop
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: site
+      - name: Make the pre-release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          version=$(jq -r .version drop/release.json)
+          notes=$(jq -r .notes drop/release.json)
+          sha=$(jq -r .sha drop/release.json)
+          tag="v$version-beta"
+          base="https://github.com/$REPO/releases/download/$tag"
+          if ! gh release view "$tag" -R "$REPO" >/dev/null 2>&1; then
+            gh release create "$tag" drop/NewEraCADBeta.zip drop/NewEraCAD-Beta-Setup.exe -R "$REPO" --target main \
+              --prerelease --latest=false \
+              --title "New Era CAD Beta $version" \
+              --notes "$notes"$'\n\n'"Test build. Installs next to the normal New Era CAD with its own settings, and updates only to newer betas. To install: download **NewEraCAD-Beta-Setup.exe** and run it. Built from $sha."
+          fi
+          cd site
+          jq -n --arg v "$version" --arg d "$base/NewEraCADBeta.zip" --arg s "$base/NewEraCAD-Beta-Setup.exe" --arg n "$notes" \
+            '{version: $v, download: $d, setup: $s, notes: $n}' > beta.json
+          git add beta.json
+          git diff --cached --quiet || git -c user.name="New Era CAD build" -c user.email="noreply@github.com" commit -qm "New Era CAD Beta $version"
+          git push -q origin main
+          git push -q origin --delete publish-beta
