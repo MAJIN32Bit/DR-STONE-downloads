@@ -1,8 +1,8 @@
 # New Era CAD downloads
 
-**Newest version: 1.0.238** - [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
+**Newest version: 1.0.242** - [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
 
-What's new: Photos: under Part \ Layer, see the pictures saved with the job (its folder and subfolders). Click one for full size. Choose folder picks another spot and works for coworkers on the same Dropbox.
+What's new: Sidebar: drag its edge to make it wider (bigger photos) or thinner, and drag the dotted grip at its top to move it to the left or right side (also View > Sidebar on the left).
 
 Older versions and their notes: [Releases](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases).
 
