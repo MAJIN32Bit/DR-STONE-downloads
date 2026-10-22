@@ -1,6 +1,6 @@
 {
-  "version": "1.0.354",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.354/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.354/NewEraCAD.zip",
-  "notes": "Clicking a line now switches Part \\ Layer to that line's layer (window boxes and snapping don't). Measurements show a 4th decimal only when it's a 5, otherwise 3 decimals, rounded. Print has a new Detail view: a zoomed-in box on the same sheet that you can move, size, pan and zoom, with its scale."
+  "version": "1.0.359",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.359/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.359/NewEraCAD.zip",
+  "notes": "Join: selecting a closed outline (lines and round corners, like a sink) and joining makes one outline with true arcs, like EasySTONE. Explode splits it back."
 }
