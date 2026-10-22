@@ -1,6 +1,6 @@
 {
-  "version": "1.0.261",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.261/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.261/NewEraCAD.zip",
-  "notes": "PDF viewer: click the page first (blue outline) and then the wheel scrolls and Ctrl+wheel zooms where the mouse is. Click the drawing to switch it off, so scrolling never touches the drawing by accident."
+  "version": "1.0.263",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.263/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.263/NewEraCAD.zip",
+  "notes": "PDF viewer: after clicking the page, the mouse wheel zooms where the mouse is and Ctrl+wheel turns pages. Drag to move around a zoomed page."
 }
