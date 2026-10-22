@@ -1,6 +1,6 @@
 {
-  "version": "1.0.265",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.265/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.265/NewEraCAD.zip",
-  "notes": "Pages related to this drawing: in View PDF, click ☆ Save page to keep a copy of that page with the job (with the PDF's name and page number). The new top-bar button shows only those pages."
+  "version": "1.0.269",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.269/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.269/NewEraCAD.zip",
+  "notes": "View PDF: the small ▾ next to it opens a recent PDF by name in one click."
 }
