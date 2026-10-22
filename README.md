@@ -1,8 +1,8 @@
 # New Era CAD downloads
 
-**Newest version: 1.0.269** - [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
+**Newest version: 1.0.271** - [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
 
-What's new: View PDF: the small ▾ next to it opens a recent PDF by name in one click.
+What's new: Pages related to this drawing and View PDF can be open at the same time: one beside the drawing, the other in its own window (Dock swaps them).
 
 Older versions and their notes: [Releases](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases).
 

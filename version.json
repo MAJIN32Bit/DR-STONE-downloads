@@ -1,6 +1,6 @@
 {
-  "version": "1.0.269",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.269/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.269/NewEraCAD.zip",
-  "notes": "View PDF: the small ▾ next to it opens a recent PDF by name in one click."
+  "version": "1.0.271",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.271/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.271/NewEraCAD.zip",
+  "notes": "Pages related to this drawing and View PDF can be open at the same time: one beside the drawing, the other in its own window (Dock swaps them)."
 }
