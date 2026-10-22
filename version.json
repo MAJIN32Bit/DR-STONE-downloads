@@ -1,6 +1,6 @@
 {
-  "version": "1.0.247",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.247/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.247/NewEraCAD.zip",
-  "notes": "Text and measurements now always go on their own layers: each Part gets one Text layer and one Measurements layer, also when text is imported or moved to another Part."
+  "version": "1.0.249",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.249/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.249/NewEraCAD.zip",
+  "notes": "Import DXF: a box to separate text and measurements into their own layers (ones already on their own layer are left alone). Straight measurements from AutoCAD-style DXFs now come in as measurements."
 }
