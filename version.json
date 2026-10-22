@@ -1,6 +1,6 @@
 {
-  "version": "1.0.228",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.228/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.228/NewEraCAD.zip",
-  "notes": "Import preview is attached to the side of the Windows file window and moves with it"
+  "version": "1.0.232",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.232/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.232/NewEraCAD.zip",
+  "notes": "Import DXF is back to New Era CAD's own window, now laid out like File Explorer, with the preview built in"
 }
