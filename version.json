@@ -1,6 +1,6 @@
 {
-  "version": "1.0.425",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.425/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.425/NewEraCAD.zip",
-  "notes": "Quick measure also works on one selected line: it measures between the line's two ends. (Quick measure, next to Measure: select a piece's lines, or just the scribe line of a scribed piece, and it measures corner to corner in one go.)"
+  "version": "1.0.429",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.429/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.429/NewEraCAD.zip",
+  "notes": "Right-click > Select continuous (with one line selected): an arrow shows which way it goes (click the line near its other end to turn it around), then click the finish line; all the joined lines in between are selected, the finish line included."
 }
