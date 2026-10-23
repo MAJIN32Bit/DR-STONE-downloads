@@ -1,6 +1,6 @@
 {
-  "version": "1.0.361",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.361-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.361-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the newest normal features (1.0.354): clicking a line makes its layer current, the measurement decimals rule, the Print detail view box, and the newest Join."
+  "version": "1.0.381",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.381-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.381-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the newest normal features (1.0.373): Print has printer Properties, color mode, detail corners and pointer lines, and remembers the info box."
 }
