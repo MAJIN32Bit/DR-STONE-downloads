@@ -1,6 +1,6 @@
 {
-  "version": "1.0.406",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.406/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.406/NewEraCAD.zip",
-  "notes": "Offset works a new way: the Distance box is ready to type as soon as Offset starts. Empty follows the mouse (or a snap point); a typed distance locks the ghost to it. After offsetting, the lines are unselected and the distance stays for the next lines. Clicking just next to a line no longer offsets by mistake. New option: Keep the lines selected after offsetting (off to start)."
+  "version": "1.0.411",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.411/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.411/NewEraCAD.zip",
+  "notes": "Offset: the first line is a plain click; Ctrl+click picks more lines (or drops one). A plain click near a line's end or near point now offsets to that snap point instead of picking the line. Offsetting to a point past a line's end measures square to the line."
 }
