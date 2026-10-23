@@ -1,6 +1,6 @@
 {
-  "version": "1.0.394",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.394/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.394/NewEraCAD.zip",
-  "notes": "Right-click menus stay open while you move around them: they close only on Esc, a choice, or a click outside. Right-click has Hide current layer (Select window is gone from it). Print: a ▾ list of saved Contractors and Job Names where × deletes a misspelled one; Paper is gone (size and landscape/portrait come from the printer's Properties); Current view, To scale and Free are hidden."
+  "version": "1.0.402",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.402/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.402/NewEraCAD.zip",
+  "notes": "Right-click with text or measurements selected: Hide text layer / Hide measurements layer. Print: Fit to sheet and Selected lines work again after dragging or zooming the preview; Tab goes from Contractor to Job Name and on (skipping the ▾ lists)."
 }
