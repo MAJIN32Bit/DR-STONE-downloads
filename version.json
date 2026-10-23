@@ -1,6 +1,6 @@
 {
-  "version": "1.0.384",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.384/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.384/NewEraCAD.zip",
-  "notes": "Closing or opening another job only asks to save when something really changed (selecting lines, printing, or a change you put back no longer count). Print detail view: starts with the whole drawing fitted in the box (a button fits it again), Ctrl+drag anywhere on the box moves it, and pointer lines end in an arrow."
+  "version": "1.0.389",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.389/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.389/NewEraCAD.zip",
+  "notes": "New Sink CL tool (Tools panel, or type SK), by your coworker: sink centerlines from one or both walls, a setback mark from the finished edge, and Sink file... to place a sink drawing on each centerline at the setback. Centerlines go on each Part's Centerlines layer, drawn dashed."
 }
