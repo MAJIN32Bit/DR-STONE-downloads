@@ -1,6 +1,6 @@
 {
-  "version": "1.0.402",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.402/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.402/NewEraCAD.zip",
-  "notes": "Right-click with text or measurements selected: Hide text layer / Hide measurements layer. Print: Fit to sheet and Selected lines work again after dragging or zooming the preview; Tab goes from Contractor to Job Name and on (skipping the ▾ lists)."
+  "version": "1.0.406",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.406/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.406/NewEraCAD.zip",
+  "notes": "Offset works a new way: the Distance box is ready to type as soon as Offset starts. Empty follows the mouse (or a snap point); a typed distance locks the ghost to it. After offsetting, the lines are unselected and the distance stays for the next lines. Clicking just next to a line no longer offsets by mistake. New option: Keep the lines selected after offsetting (off to start)."
 }
