@@ -1,6 +1,6 @@
 {
-  "version": "1.0.423",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.423/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.423/NewEraCAD.zip",
-  "notes": "New tool: Quick measure (next to Measure). Select a piece's lines (for a scribed piece, just the scribe line) and it measures corner to corner in one go: front, back and both sides, ready to place with the mouse. A square piece gets the long and short side (tick All four sides for all four)."
+  "version": "1.0.425",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.425/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.425/NewEraCAD.zip",
+  "notes": "Quick measure also works on one selected line: it measures between the line's two ends. (Quick measure, next to Measure: select a piece's lines, or just the scribe line of a scribed piece, and it measures corner to corner in one go.)"
 }
