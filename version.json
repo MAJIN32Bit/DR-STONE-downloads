@@ -1,6 +1,6 @@
 {
-  "version": "1.0.373",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.373/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.373/NewEraCAD.zip",
-  "notes": "Print window: a Properties... button next to the printer opens the printer's own settings, and with Lines set to Colors the printer is asked to print in color. The detail box resizes from any corner and can have dotted pointer lines to the spot it zooms in on. The info boxes keep the last print's text (Clear all empties them), and Contractor and Job Name finish names you've typed before: the rest shows in grey, press Enter to fill it in."
+  "version": "1.0.384",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.384/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.384/NewEraCAD.zip",
+  "notes": "Closing or opening another job only asks to save when something really changed (selecting lines, printing, or a change you put back no longer count). Print detail view: starts with the whole drawing fitted in the box (a button fits it again), Ctrl+drag anywhere on the box moves it, and pointer lines end in an arrow."
 }
