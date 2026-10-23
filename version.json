@@ -1,6 +1,6 @@
 {
-  "version": "1.0.429",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.429/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.429/NewEraCAD.zip",
-  "notes": "Right-click > Select continuous (with one line selected): an arrow shows which way it goes (click the line near its other end to turn it around), then click the finish line; all the joined lines in between are selected, the finish line included."
+  "version": "1.0.434",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.434/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.434/NewEraCAD.zip",
+  "notes": "Quick measure on a square piece: while placing, a middle click switches the two measurements to the other two sides (click again to switch back)."
 }
