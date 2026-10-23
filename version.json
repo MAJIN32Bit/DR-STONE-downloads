@@ -1,6 +1,6 @@
 {
-  "version": "1.0.389",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.389/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.389/NewEraCAD.zip",
-  "notes": "New Sink CL tool (Tools panel, or type SK), by your coworker: sink centerlines from one or both walls, a setback mark from the finished edge, and Sink file... to place a sink drawing on each centerline at the setback. Centerlines go on each Part's Centerlines layer, drawn dashed."
+  "version": "1.0.394",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.394/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.394/NewEraCAD.zip",
+  "notes": "Right-click menus stay open while you move around them: they close only on Esc, a choice, or a click outside. Right-click has Hide current layer (Select window is gone from it). Print: a ▾ list of saved Contractors and Job Names where × deletes a misspelled one; Paper is gone (size and landscape/portrait come from the printer's Properties); Current view, To scale and Free are hidden."
 }
