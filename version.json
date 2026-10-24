@@ -1,6 +1,6 @@
 {
-  "version": "1.0.485",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.485/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.485/NewEraCAD.zip",
-  "notes": "Quick measure: U and L shaped pieces get every side measured. A scribe line's ends follow the drawn cut lines round the inside of a U."
+  "version": "1.0.490",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.490/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.490/NewEraCAD.zip",
+  "notes": "Quick measure: post notches are measured side by side; a peninsula follows its finished edges, not the over material; a radius corner is measured to the sharp corner."
 }
