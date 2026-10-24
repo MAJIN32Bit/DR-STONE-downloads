@@ -1,6 +1,6 @@
 {
-  "version": "1.0.457",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.457/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.457/NewEraCAD.zip",
-  "notes": "Quick measure on L-shaped pieces: the front and the inside edge are measured too."
+  "version": "1.0.460",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.460/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.460/NewEraCAD.zip",
+  "notes": "Drag an end of a selected measurement's bar to move it in toward the piece or out."
 }
