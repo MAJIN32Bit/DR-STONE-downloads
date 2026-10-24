@@ -1,6 +1,6 @@
 {
-  "version": "1.0.467",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.467/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.467/NewEraCAD.zip",
-  "notes": "Quick measure finds the cut lines an L's scribe ends finish against; Measure tool numbers sit outside, bottom toward the points."
+  "version": "1.0.471",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.471/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.471/NewEraCAD.zip",
+  "notes": "Measurement brackets are dotted by default; View > Solid measurement brackets switches them to solid."
 }
