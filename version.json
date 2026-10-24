@@ -1,6 +1,6 @@
 {
-  "version": "1.0.449",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.449/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.449/NewEraCAD.zip",
-  "notes": "View > Dotted measurement brackets: draws measurement bars and extension lines dotted so they don't look like drawn lines."
+  "version": "1.0.453",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.453/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.453/NewEraCAD.zip",
+  "notes": "Measurement lines now start right on the measured points (no small gap)."
 }

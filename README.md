@@ -1,11 +1,11 @@
 # New Era CAD downloads
 
-**Newest version: 1.0.449**
+**Newest version: 1.0.453**
 
 - **Install:** [Download NewEraCAD-Setup.exe](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD-Setup.exe) and run it (no admin password needed). It adds Start menu and desktop shortcuts, and .nec jobs open with a double-click.
 - **Or without installing:** [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
 
-What's new: View > Dotted measurement brackets: draws measurement bars and extension lines dotted so they don't look like drawn lines.
+What's new: Measurement lines now start right on the measured points (no small gap).
 
 Older versions and their notes: [Releases](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases).
 
