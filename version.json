@@ -1,6 +1,6 @@
 {
-  "version": "1.0.473",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.473/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.473/NewEraCAD.zip",
-  "notes": "Lengthen/Shorten works on one selected line: the end you clicked near grows (+) or shrinks (-), then the tool closes."
+  "version": "1.0.477",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.477/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.477/NewEraCAD.zip",
+  "notes": "Trim/Extend: click the end that should move, then the line; the tool closes after. Greyed-out tools can be dragged."
 }
