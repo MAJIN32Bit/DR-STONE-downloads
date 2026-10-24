@@ -1,6 +1,6 @@
 {
-  "version": "1.0.422",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.422-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.422-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the newest normal features (1.0.418): fraction cheat sheet under Notes, Alt+drag a measurement number (Alt+click resets), Ctrl+scroll stays inside the line, confirm before deleting a note."
+  "version": "1.0.484",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.484-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.484-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in everything from the normal app up to 1.0.479, including Quick measure."
 }
