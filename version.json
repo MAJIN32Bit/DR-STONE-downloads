@@ -1,6 +1,6 @@
 {
-  "version": "1.0.447",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.447/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.447/NewEraCAD.zip",
-  "notes": "Quick measure on two walls also measures the two open sides (the front and the open end), squared."
+  "version": "1.0.449",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.449/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.449/NewEraCAD.zip",
+  "notes": "View > Dotted measurement brackets: draws measurement bars and extension lines dotted so they don't look like drawn lines."
 }
