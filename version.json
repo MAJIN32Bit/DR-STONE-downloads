@@ -1,6 +1,6 @@
 {
-  "version": "1.0.471",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.471/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.471/NewEraCAD.zip",
-  "notes": "Measurement brackets are dotted by default; View > Solid measurement brackets switches them to solid."
+  "version": "1.0.473",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.473/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.473/NewEraCAD.zip",
+  "notes": "Lengthen/Shorten works on one selected line: the end you clicked near grows (+) or shrinks (-), then the tool closes."
 }
