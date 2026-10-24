@@ -1,6 +1,6 @@
 {
-  "version": "1.0.439",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.439/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.439/NewEraCAD.zip",
-  "notes": "Quick measure: on a square piece a faint cross through the middle; the quarter your mouse is in picks the two sides measured. On a circle: its diameter (Ø), turning with the mouse; tick Also show the radius for R too."
+  "version": "1.0.443",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.443/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.443/NewEraCAD.zip",
+  "notes": "Quick measure now works on two scribed walls (an L): each wall is measured from the shared corner to its loose end."
 }
