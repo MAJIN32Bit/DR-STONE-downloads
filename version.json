@@ -1,6 +1,6 @@
 {
-  "version": "1.0.490",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.490/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.490/NewEraCAD.zip",
-  "notes": "Quick measure: post notches are measured side by side; a peninsula follows its finished edges, not the over material; a radius corner is measured to the sharp corner."
+  "version": "1.0.493",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.493/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.493/NewEraCAD.zip",
+  "notes": "Tool tips: a small blue (i) next to Done shows each tool's extra shortcuts (Ctrl/Alt+scroll, middle click, typed values). Hover to see it, click to keep it open."
 }
