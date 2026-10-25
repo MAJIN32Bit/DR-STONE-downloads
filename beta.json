@@ -1,6 +1,6 @@
 {
-  "version": "1.0.509",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.509-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.509-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.508: New Holes tool (H): set a diameter, each click places a hole centered there with an X inside (the X lines can be deleted); stays on for more. Text: new Place choice with Arrow and the ℄ Center line symbol. Text angle goes back to 0 each time you start Text (size is kept)."
+  "version": "1.0.511",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.511-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.511-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.510: Text: press Enter in the Text box to start a new line, like Word; the lines stack under the first one and stay one text. Right-click > Edit text works the same (OK to finish)."
 }
