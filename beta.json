@@ -1,6 +1,6 @@
 {
-  "version": "1.0.511",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.511-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.511-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.510: Text: press Enter in the Text box to start a new line, like Word; the lines stack under the first one and stay one text. Right-click > Edit text works the same (OK to finish)."
+  "version": "1.0.513",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.513-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.513-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.512: Line: press the Down arrow after picking the start point, then hover any line: your line follows that line's angle (pink guide). Click anywhere along it or type a length. Down again unlocks."
 }
