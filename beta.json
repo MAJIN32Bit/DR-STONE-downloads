@@ -1,6 +1,6 @@
 {
-  "version": "1.0.499",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.499-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.499-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.497: Trim/Extend: select the line to change first (the button is greyed out until you do), clicking it on the part to cut off; then click the line to trim or extend to."
+  "version": "1.0.502",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.502-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.502-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.500: Quick keys: the mouse side buttons (back/forward) can now be quick keys (Settings > Quick keys, click a tool's key, press the side button). They work even while another tool is on."
 }
