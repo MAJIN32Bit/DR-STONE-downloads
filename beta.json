@@ -1,6 +1,6 @@
 {
-  "version": "1.0.505",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.505-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.505-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.503: Text tool: new Arrow option. Tick '→ Arrow' in the Text panel and click: an arrow is placed with its tip on the click, to point at areas. Angle turns it, Size makes it bigger. Click the Text box to go back to text."
+  "version": "1.0.507",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.507-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.507-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.506: Text and arrows: Ctrl + scroll turns them and Alt + scroll sizes them, while placing or when selected (the view doesn't zoom while Ctrl or Alt is held). A selected arrow has side dots: drag one to stretch just that side."
 }
