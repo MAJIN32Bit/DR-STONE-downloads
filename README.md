@@ -1,11 +1,11 @@
 # New Era CAD downloads
 
-**Newest version: 1.0.497**
+**Newest version: 1.0.500**
 
 - **Install:** [Download NewEraCAD-Setup.exe](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD-Setup.exe) and run it (no admin password needed). It adds Start menu and desktop shortcuts, and .nec jobs open with a double-click.
 - **Or without installing:** [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
 
-What's new: Trim/Extend: select the line to change first (the button is greyed out until you do), clicking it on the part to cut off; then click the line to trim or extend to.
+What's new: Quick keys: the mouse side buttons (back/forward) can now be quick keys (Settings > Quick keys, click a tool's key, press the side button). They work even while another tool is on.
 
 Older versions and their notes: [Releases](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases).
 
