@@ -1,6 +1,6 @@
 {
-  "version": "1.0.520",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.520-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.520-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.519: Splash is never greyed out now. With nothing selected it starts in 'Splash from 2 points': click both ends of a wall to draw a splash, and keep clicking pairs for more. Untick the box to pick lines instead."
+  "version": "1.0.522",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.522-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.522-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.521: Splash and Apron: a middle click switches between outside and inside the piece."
 }
