@@ -1,6 +1,6 @@
 {
-  "version": "1.0.522",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.522-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.522-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.521: Splash and Apron: a middle click switches between outside and inside the piece."
+  "version": "1.0.528",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.528-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.528-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.527: New: Help > New User Guide, one exercise per basic tool with practice lines to start from and Done ticks. Holes > Faucet spread: the holes lock to the middle of the picked line; the mouse only picks the side."
 }
