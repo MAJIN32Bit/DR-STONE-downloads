@@ -1,6 +1,6 @@
 {
-  "version": "1.0.514",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.514/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.514/NewEraCAD.zip",
-  "notes": "Lengthen/Shorten now marks the end it will change, like Break: 'lengthen from here' or 'shorten from here' with the amount."
+  "version": "1.0.515",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.515/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.515/NewEraCAD.zip",
+  "notes": "Fix: clicking a sink centerline no longer switches you to the Centerlines layer (new lines were coming out dashed). Centerlines use the same short dashes as the dotted brackets, and Sink CL marks them with the ℄ symbol."
 }
