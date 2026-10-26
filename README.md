@@ -1,11 +1,11 @@
 # New Era CAD downloads
 
-**Newest version: 1.0.531**
+**Newest version: 1.0.534**
 
 - **Install:** [Download NewEraCAD-Setup.exe](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD-Setup.exe) and run it (no admin password needed). It adds Start menu and desktop shortcuts, and .nec jobs open with a double-click.
 - **Or without installing:** [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
 
-What's new: D buttons in every tool panel: set your own default for any box, checkbox or choice (hover says Set default); Reset to app defaults at the bottom of each tool. New app defaults: Holes 1.625, Fillet radius 2.5, Explode keeps the original, Move makes a copy. Faucet spread holes lock to the middle of the picked line. New User Guide: Measure is the first exercise, red click hints on the drawing, Break steps fixed, Move/Explode steps follow the new defaults.
+What's new: View > Hide default buttons (D, Reset): on to start, so tool panels stay clean; the defaults you set still apply. Untick it to see the D buttons and Reset to app defaults.
 
 Older versions and their notes: [Releases](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases).
 
