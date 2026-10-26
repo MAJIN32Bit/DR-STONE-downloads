@@ -1,6 +1,6 @@
 {
-  "version": "1.0.515",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.515/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.515/NewEraCAD.zip",
-  "notes": "Fix: clicking a sink centerline no longer switches you to the Centerlines layer (new lines were coming out dashed). Centerlines use the same short dashes as the dotted brackets, and Sink CL marks them with the ℄ symbol."
+  "version": "1.0.517",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.517/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.517/NewEraCAD.zip",
+  "notes": "Sink CL: when you pick a setback edge, the ℄ symbol now sits inside the piece next to that edge."
 }
