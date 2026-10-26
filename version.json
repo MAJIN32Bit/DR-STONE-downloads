@@ -1,6 +1,6 @@
 {
-  "version": "1.0.527",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.527/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.527/NewEraCAD.zip",
-  "notes": "New: Help > New User Guide, one exercise per basic tool with practice lines to start from and Done ticks. Holes > Faucet spread: the holes lock to the middle of the picked line; the mouse only picks the side."
+  "version": "1.0.531",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.531/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.531/NewEraCAD.zip",
+  "notes": "D buttons in every tool panel: set your own default for any box, checkbox or choice (hover says Set default); Reset to app defaults at the bottom of each tool. New app defaults: Holes 1.625, Fillet radius 2.5, Explode keeps the original, Move makes a copy. Faucet spread holes lock to the middle of the picked line. New User Guide: Measure is the first exercise, red click hints on the drawing, Break steps fixed, Move/Explode steps follow the new defaults."
 }
