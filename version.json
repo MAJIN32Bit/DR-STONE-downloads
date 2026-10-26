@@ -1,6 +1,6 @@
 {
-  "version": "1.0.534",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.534/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.534/NewEraCAD.zip",
-  "notes": "View > Hide default buttons (D, Reset): on to start, so tool panels stay clean; the defaults you set still apply. Untick it to see the D buttons and Reset to app defaults."
+  "version": "1.0.537",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.537/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.537/NewEraCAD.zip",
+  "notes": "New default tool button order (Line, Offset, Connect, Move / Trim, Len/Short, Fillet, Align / Break, Split, Join, Explode / Extrem, Layer, Rotate, Mirror / Splash, Apron, Rectangle, Circle / Nurbs, Arc, Scale, Sink CL / Text, Measure, Quick measure, Holes). This update sets everyone to it once; after that, an order you drag stays through updates."
 }
