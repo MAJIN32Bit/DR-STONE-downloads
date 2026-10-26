@@ -1,6 +1,6 @@
 {
-  "version": "1.0.537",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.537/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.537/NewEraCAD.zip",
-  "notes": "New default tool button order (Line, Offset, Connect, Move / Trim, Len/Short, Fillet, Align / Break, Split, Join, Explode / Extrem, Layer, Rotate, Mirror / Splash, Apron, Rectangle, Circle / Nurbs, Arc, Scale, Sink CL / Text, Measure, Quick measure, Holes). This update sets everyone to it once; after that, an order you drag stays through updates."
+  "version": "1.0.540",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.540/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.540/NewEraCAD.zip",
+  "notes": "Import DXF: new \"Place it by hand\" box (top of the import window). The drawing follows the mouse by its bottom-left corner (snaps work); click to place it anywhere on the sheet, Esc to cancel."
 }
