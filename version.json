@@ -1,6 +1,6 @@
 {
-  "version": "1.0.512",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.512/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.512/NewEraCAD.zip",
-  "notes": "Line: press the Down arrow after picking the start point, then hover any line: your line follows that line's angle (pink guide). Click anywhere along it or type a length. Down again unlocks."
+  "version": "1.0.514",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.514/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.514/NewEraCAD.zip",
+  "notes": "Lengthen/Shorten now marks the end it will change, like Break: 'lengthen from here' or 'shorten from here' with the amount."
 }
