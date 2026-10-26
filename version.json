@@ -1,6 +1,6 @@
 {
-  "version": "1.0.521",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.521/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.521/NewEraCAD.zip",
-  "notes": "Splash and Apron: a middle click switches between outside and inside the piece."
+  "version": "1.0.523",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.523/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.523/NewEraCAD.zip",
+  "notes": "Mirror puts its result in a new Part, e.g. 'Part3 (Mirrored)'; one Undo removes it and the Part. Holes: new Faucet spread option: click the edge to set back from (1.25), then where the middle hole goes; 3 holes over 8 by default; repeat for the next sink."
 }
