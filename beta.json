@@ -1,6 +1,6 @@
 {
-  "version": "1.0.516",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.516-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.516-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.515: Fix: clicking a sink centerline no longer switches you to the Centerlines layer (new lines were coming out dashed). Centerlines use the same short dashes as the dotted brackets, and Sink CL marks them with the ℄ symbol."
+  "version": "1.0.518",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.518-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.518-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Normal features up to 1.0.517"
 }
