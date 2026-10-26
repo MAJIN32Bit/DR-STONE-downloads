@@ -1,6 +1,6 @@
 {
-  "version": "1.0.533",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.533-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.533-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.531: D buttons in every tool panel: set your own default for any box, checkbox or choice (hover says Set default); Reset to app defaults at the bottom of each tool. New app defaults: Holes 1.625, Fillet radius 2.5, Explode keeps the original, Move makes a copy. Faucet spread holes lock to the middle of the picked line. New User Guide: Measure is the first exercise, red click hints on the drawing, Break steps fixed, Move/Explode steps follow the new defaults."
+  "version": "1.0.536",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.536-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.536-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.534: View > Hide default buttons (D, Reset): on to start, so tool panels stay clean; the defaults you set still apply. Untick it to see the D buttons and Reset to app defaults."
 }
