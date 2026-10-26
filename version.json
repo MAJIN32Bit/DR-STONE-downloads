@@ -1,6 +1,6 @@
 {
-  "version": "1.0.523",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.523/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.523/NewEraCAD.zip",
-  "notes": "Mirror puts its result in a new Part, e.g. 'Part3 (Mirrored)'; one Undo removes it and the Part. Holes: new Faucet spread option: click the edge to set back from (1.25), then where the middle hole goes; 3 holes over 8 by default; repeat for the next sink."
+  "version": "1.0.527",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.527/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.527/NewEraCAD.zip",
+  "notes": "New: Help > New User Guide, one exercise per basic tool with practice lines to start from and Done ticks. Holes > Faucet spread: the holes lock to the middle of the picked line; the mouse only picks the side."
 }
