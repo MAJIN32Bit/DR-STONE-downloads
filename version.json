@@ -1,6 +1,6 @@
 {
-  "version": "1.0.543",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.543/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.543/NewEraCAD.zip",
-  "notes": "Import DXF: new \"Import as its own part\" box (on to start). The drawing goes into a new Part named after the file, e.g. Part3 (vanity), with its own layers. Works with Place it by hand; one undo removes it."
+  "version": "1.0.546",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.546/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.546/NewEraCAD.zip",
+  "notes": "DXF export: black lines now go out as color 250 (the black EasySTONE uses), so the saw no longer reads them as white. View > Dark mode: menus, sidebar, tool panel and windows go dark; the grid and background stay as you set them. Settings > Quick keys: its own window that fits the screen; the list scrolls and Save/Cancel are always visible."
 }
