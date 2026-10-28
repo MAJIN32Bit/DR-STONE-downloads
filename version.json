@@ -1,6 +1,6 @@
 {
-  "version": "1.0.546",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.546/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.546/NewEraCAD.zip",
-  "notes": "DXF export: black lines now go out as color 250 (the black EasySTONE uses), so the saw no longer reads them as white. View > Dark mode: menus, sidebar, tool panel and windows go dark; the grid and background stay as you set them. Settings > Quick keys: its own window that fits the screen; the list scrolls and Save/Cancel are always visible."
+  "version": "1.0.549",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.549/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.549/NewEraCAD.zip",
+  "notes": "Settings > Right click is Done (off to start): with a tool on, a quick right click finishes it; hold the right button for the menu. With it on, the top bar gets a snap bar (End point, Mid point, Intersect, Near point, Grid, More ▾); drag to reorder. Off: everything works as before."
 }
