@@ -1,6 +1,6 @@
 {
-  "version": "1.0.552",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.552/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.552/NewEraCAD.zip",
-  "notes": "Fixed a crash when dragging a tool button to a new spot in the tool area."
+  "version": "1.0.555",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.555/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.555/NewEraCAD.zip",
+  "notes": "Photos: iPhone HEIC photos now show in the Photos panel and the photo window, upright, like JPGs."
 }
