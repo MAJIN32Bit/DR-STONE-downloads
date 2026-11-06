@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.1-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.1-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "First Layout Beta: Layout tab with job slabs, pieces from the drawing or a DXF, Add to slab side, move and turn, warnings, and saving next to the job."
+}
