@@ -1,6 +1,6 @@
 {
-  "version": "1.0.559",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.559-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.559-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Built on Windows like the 3D Beta, so it opens. Same Layout tab as 1.0.1."
+  "version": "1.0.561",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.561-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.561-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Fixed: the Layout Beta now opens."
 }
