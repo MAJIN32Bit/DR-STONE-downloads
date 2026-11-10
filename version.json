@@ -1,6 +1,6 @@
 {
-  "version": "1.0.565",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.565/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.565/NewEraCAD.zip",
-  "notes": "Import DXF: new box \"Only loose lines (skip groups)\", on to start. From SketchUp, only the objects you had selected come in, like EasySTONE."
+  "version": "1.0.568",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.568/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.568/NewEraCAD.zip",
+  "notes": "Text tool: new Place choices Letters A, B, C... and Numbers 1, 2, 3.... Each click places the one in the Text box and the box moves on to the next; type in the box to carry on from there."
 }
