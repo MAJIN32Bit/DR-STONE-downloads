@@ -1,6 +1,6 @@
 {
-  "version": "1.0.567",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.567-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.567-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.565: Import DXF: new box \"Only loose lines (skip groups)\", on to start. From SketchUp, only the objects you had selected come in, like EasySTONE."
+  "version": "1.0.570",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.570-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.570-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.568: Text tool Letters A, B, C... and Numbers 1, 2, 3..."
 }
