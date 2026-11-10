@@ -1,6 +1,6 @@
 {
-  "version": "1.0.555",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.555/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.555/NewEraCAD.zip",
-  "notes": "Photos: iPhone HEIC photos now show in the Photos panel and the photo window, upright, like JPGs."
+  "version": "1.0.565",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.565/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.565/NewEraCAD.zip",
+  "notes": "Import DXF: new box \"Only loose lines (skip groups)\", on to start. From SketchUp, only the objects you had selected come in, like EasySTONE."
 }
