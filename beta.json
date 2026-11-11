@@ -1,6 +1,6 @@
 {
-  "version": "1.0.570",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.570-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.570-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.568: Text tool Letters A, B, C... and Numbers 1, 2, 3..."
+  "version": "1.0.573",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.573-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.573-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.571: Text Letters/Numbers Title box"
 }
