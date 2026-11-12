@@ -1,6 +1,6 @@
 {
-  "version": "1.0.573",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.573-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.573-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.571: Text Letters/Numbers Title box"
+  "version": "1.0.576",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.576-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.576-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.574: Move/Copy to layer sends text and measurements to the Part's own layers"
 }
