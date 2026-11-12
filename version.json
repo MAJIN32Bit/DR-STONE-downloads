@@ -1,6 +1,6 @@
 {
-  "version": "1.0.571",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.571/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.571/NewEraCAD.zip",
-  "notes": "Text tool Letters / Numbers: a Title box that stays the same in front of the count, e.g. 115 Laundry A, 115 Laundry B, 115 Laundry C."
+  "version": "1.0.574",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.574/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.574/NewEraCAD.zip",
+  "notes": "Move / Copy to layer and Change layer: when lines are moved with their text and measurements, the text goes to the Part's Text layer and measurements to its Measurements layer (made if needed). A box at the bottom of those menus turns it off."
 }
