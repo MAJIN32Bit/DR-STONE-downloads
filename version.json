@@ -1,6 +1,6 @@
 {
-  "version": "1.0.577",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.577/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.577/NewEraCAD.zip",
-  "notes": "New Shape tool (last tool button, also Draw > Shape): draw a whole L, U, half round end, oval ends or bow front piece from its measurements. Type the lettered sizes A, B, C, pick square, radius or clip for each corner, and click where it goes (middle click turns it). Measurements are added outside each side. L and U lengths can be typed outside, inside or both."
+  "version": "1.0.579",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.579/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.579/NewEraCAD.zip",
+  "notes": "Shape window: each size box now sits right on the picture next to its measurement line, so you type the size where you see it. The picture is bigger. For L and U shapes, Outside / Inside / Both is picked in a Lengths measured list on the right."
 }
