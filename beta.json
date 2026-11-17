@@ -1,6 +1,6 @@
 {
-  "version": "1.0.576",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.576-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.576-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.574: Move/Copy to layer sends text and measurements to the Part's own layers"
+  "version": "1.0.583",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.583-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.583-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Join: when the lines aren't in a straight line, it asks before joining them (they still join exactly)."
 }
