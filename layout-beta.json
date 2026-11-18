@@ -1,6 +1,6 @@
 {
-  "version": "1.0.621",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.621-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.621-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "AC areas show -ALREADY CUT- repeated on a slant across the whole area, cut to its shape (fills an L too). AC turns itself off after you draw a box (A turns it back on to resize or add a vertex)."
+  "version": "1.0.622",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.622-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.622-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Bottom right under the slab side shows which layout file is open (a dot means changes not saved yet; hover for the full path)."
 }
