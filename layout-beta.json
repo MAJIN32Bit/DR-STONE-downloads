@@ -1,6 +1,6 @@
 {
-  "version": "1.0.619",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.619-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.619-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Slab side Snap together now uses the same 1 2 3 box as the pieces side (2, the middle, by default), with a gap box and a green preview; Snap or Enter applies it."
+  "version": "1.0.621",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.621-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.621-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "AC areas show -ALREADY CUT- repeated on a slant across the whole area, cut to its shape (fills an L too). AC turns itself off after you draw a box (A turns it back on to resize or add a vertex)."
 }
