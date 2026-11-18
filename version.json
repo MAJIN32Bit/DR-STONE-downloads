@@ -1,6 +1,6 @@
 {
-  "version": "1.0.582",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.582/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.582/NewEraCAD.zip",
-  "notes": "Join: when the lines aren't in a straight line, it asks before joining them (they still join exactly)."
+  "version": "1.0.615",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.615/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.615/NewEraCAD.zip",
+  "notes": "Fix: clicking Check for updates again while an update is downloading no longer crashes; it says the update is already downloading."
 }
