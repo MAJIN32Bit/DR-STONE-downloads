@@ -1,6 +1,6 @@
 {
-  "version": "1.0.593",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.593-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.593-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Import DXF on the pieces side: pick the file in the usual Import DXF window, then its closed shapes in the same picker as Import from CAD; new pieces go to the right of the ones already there, never on top. F3 turns snap points on or off for the side in use."
+  "version": "1.0.594",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.594-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.594-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Ctrl+Z / Ctrl+Y undo and redo the side in use only. Corner snaps turn the piece flush along the other piece's side (the lit ghost line, picked by where the mouse heads), never inside it. Piece names run along the longest side and shrink to fit. Import from CAD names pieces only from the text you click."
 }
