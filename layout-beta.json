@@ -1,6 +1,6 @@
 {
-  "version": "1.0.592",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.592-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.592-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Selection boxes work like the CAD tab on both sides (left to right = wholly inside, right to left = touching). Add to slab side keeps the pieces as arranged on the pieces side, and seams that touch there open up for the saw: one blade (0.1875\") on a black line, the miter gap (0.53\", new Miter box) on a blue line. A blue outline shows which side you're working in; keys go to that side."
+  "version": "1.0.593",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.593-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.593-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Import DXF on the pieces side: pick the file in the usual Import DXF window, then its closed shapes in the same picker as Import from CAD; new pieces go to the right of the ones already there, never on top. F3 turns snap points on or off for the side in use."
 }
