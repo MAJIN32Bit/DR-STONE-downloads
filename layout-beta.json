@@ -1,6 +1,6 @@
 {
-  "version": "1.0.602",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.602-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.602-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Slab side: several selected pieces turn together as one block (R / Shift+R), grouped or not. Group frame shows only while the group is selected. New Align to grid button: click a side of a piece and it turns straight along X or Y (its group turns with it)."
+  "version": "1.0.603",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.603-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.603-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Add to slab side now puts the pieces just right of the slabs (and of pieces already placed), never on a slab; drag them on where you want."
 }
