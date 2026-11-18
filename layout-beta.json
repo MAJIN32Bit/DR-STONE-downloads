@@ -1,6 +1,6 @@
 {
-  "version": "1.0.614",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.614-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.614-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Fix: Ctrl+Z, Ctrl+Y and the other CAD shortcuts no longer change the drawing while the Layout tab shows. Fix: clicking Check for updates again while downloading no longer crashes. Delete layout button. Snap together on the slab side (middle on middle, blade or miter gap, group comes along). Bolder outlines while Snap together is on. AC boxes can be drawn anywhere on the slab side."
+  "version": "1.0.618",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.618-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.618-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Brings in the normal 1.0.615. Layout tab menus: File (New layout, Open layout, Save, Save As, Import DXF), Settings, Help, and small Undo/Redo; Edit, View, Draw and Modify only on CAD. Above the pieces: Import from CAD and the layout controls. The layout is its own file: a new or other drawing asks whether to clear the Layout."
 }
