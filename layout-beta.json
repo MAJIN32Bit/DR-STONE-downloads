@@ -1,6 +1,6 @@
 {
-  "version": "1.0.595",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.595-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.595-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Piece names turn with the piece: upside-down text means the piece is turned 180°."
+  "version": "1.0.596",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.596-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.596-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "S (or F3) turns snap points on and off on both sides. While snapped, small circles round the dot show each line the piece can lie along; head toward one to pick it. Blue (miter) lines from the drawing show blue on the pieces, and a corner snap on a blue seam leaves the miter gap; any other color counts as black. Esc clears the selection."
 }
