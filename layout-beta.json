@@ -1,6 +1,6 @@
 {
-  "version": "1.0.589",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.589-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.589-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Blade band (0.1875\") round every piece on the slab side. Snap points on both sides: drag a piece by a corner dot onto another piece's dot; blue lines show which sides line up, a blue cross means square (follows the pieces' own angle). Hide lines on the pieces side to see the vein match. Slabs lock/unlock to drag slabs. Delete pieces on the pieces side when unlocked. Ctrl+click in Import from CAD selects lines joined end to end. Bolder lines."
+  "version": "1.0.592",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.592-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.592-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Selection boxes work like the CAD tab on both sides (left to right = wholly inside, right to left = touching). Add to slab side keeps the pieces as arranged on the pieces side, and seams that touch there open up for the saw: one blade (0.1875\") on a black line, the miter gap (0.53\", new Miter box) on a blue line. A blue outline shows which side you're working in; keys go to that side."
 }
