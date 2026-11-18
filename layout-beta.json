@@ -1,6 +1,6 @@
 {
-  "version": "1.0.622",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.622-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.622-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Bottom right under the slab side shows which layout file is open (a dot means changes not saved yet; hover for the full path)."
+  "version": "1.0.624",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.624-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.624-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Layout file label shows the full folder location. Slab photos load by themselves when a layout opens."
 }
