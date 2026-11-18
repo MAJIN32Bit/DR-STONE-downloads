@@ -1,6 +1,6 @@
 {
-  "version": "1.0.563",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.563-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.563-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Layout is now on the top-right switch: CAD | 3D | CAM | Layout."
+  "version": "1.0.584",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.584-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.584-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Slab Inventory window: the Inventory… button above the slab side searches slabs by job number or slab ID, with photos, a big preview and Add to layout. The mode switch reads CAD | Layout | 3D | CAM. Undo and Redo on the Layout tab."
 }
