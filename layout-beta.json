@@ -1,6 +1,6 @@
 {
-  "version": "1.0.585",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.585-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.585-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Import from CAD: pick pieces in the drawing (click, Ctrl+click, box); cutouts stay inside; names from the text inside. Pieces side: Lock/Unlock and Snap together (1 2 3 points, gap). Slab side: box select, Group / Ungroup (Ctrl+G)."
+  "version": "1.0.586",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.586-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.586-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Import from CAD picks single lines like the CAD tab. Inventory: Ctrl/Shift+click picks several slabs. Slab side: two across, drag a slab's name onto another to swap. Warnings: a small ⚠ at the bottom left."
 }
