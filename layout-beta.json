@@ -1,6 +1,6 @@
 {
-  "version": "1.0.604",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.604-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.604-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "New AC (Already cut) tool on the slab side: drag a red box on a slab, resize it, add vertexes (right-click a side) for an L or any shape; pieces on it turn red. Piece names are now yellow with a black outline."
+  "version": "1.0.605",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.605-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.605-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Pieces with a problem (off the slab, overlapping, on an AC area) are red all over; right-click Clear red (comes back if moved). AC: grab a corner to move the point or a line to move the line (comes out square for an L). A toggles AC. AC text on top of everything, less see-through, AC text button to hide the words."
 }
