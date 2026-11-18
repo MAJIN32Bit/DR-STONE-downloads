@@ -1,6 +1,6 @@
 {
-  "version": "1.0.584",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.584-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.584-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Slab Inventory window: the Inventory… button above the slab side searches slabs by job number or slab ID, with photos, a big preview and Add to layout. The mode switch reads CAD | Layout | 3D | CAM. Undo and Redo on the Layout tab."
+  "version": "1.0.585",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.585-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.585-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Import from CAD: pick pieces in the drawing (click, Ctrl+click, box); cutouts stay inside; names from the text inside. Pieces side: Lock/Unlock and Snap together (1 2 3 points, gap). Slab side: box select, Group / Ungroup (Ctrl+G)."
 }
