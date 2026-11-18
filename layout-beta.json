@@ -1,6 +1,6 @@
 {
-  "version": "1.0.607",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.607-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.607-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Layouts: a drop-down in the top bar swaps between layouts; + Add layout (Keep slabs on, Keep pieces off); Clear layout. Pieces side and AC areas are shared by all layouts. The layout no longer saves by itself: a new file, opening another job or closing asks to save it if it changed. A new file clears the Layout tab."
+  "version": "1.0.608",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.608-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.608-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Layouts: a drop-down in the top bar swaps between layouts; + Add layout (Keep slabs on, Keep pieces off); Clear layout. Pieces side and AC areas are shared by all layouts. The layout no longer saves by itself: a new file, opening another job or closing asks to save it if it changed. A new file clears the Layout tab. Snap together moves a grouped piece's whole group."
 }
