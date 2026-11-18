@@ -1,6 +1,6 @@
 {
-  "version": "1.0.624",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.624-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.624-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Layout file label shows the full folder location. Slab photos load by themselves when a layout opens."
+  "version": "1.0.625",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.625-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.625-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "New 3D section above the pieces side: select pieces, Send to 3D, and see them 1 1/4 inch thick in their slab stone. Drag to turn, wheel to zoom, right-drag to pan."
 }
