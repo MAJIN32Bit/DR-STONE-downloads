@@ -1,6 +1,6 @@
 {
-  "version": "1.0.586",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.586-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.586-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Import from CAD picks single lines like the CAD tab. Inventory: Ctrl/Shift+click picks several slabs. Slab side: two across, drag a slab's name onto another to swap. Warnings: a small ⚠ at the bottom left."
+  "version": "1.0.589",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.589-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.589-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Blade band (0.1875\") round every piece on the slab side. Snap points on both sides: drag a piece by a corner dot onto another piece's dot; blue lines show which sides line up, a blue cross means square (follows the pieces' own angle). Hide lines on the pieces side to see the vein match. Slabs lock/unlock to drag slabs. Delete pieces on the pieces side when unlocked. Ctrl+click in Import from CAD selects lines joined end to end. Bolder lines."
 }
