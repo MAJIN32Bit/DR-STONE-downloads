@@ -1,6 +1,6 @@
 {
-  "version": "1.0.639",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.639-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.639-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "3D: mouse back as before (middle-drag orbits, Shift+middle or right-drag pans); left is the select tool. Group / Ungroup in 3D (Ctrl+G, Ctrl+Shift+G, or right-click): grouped pieces select and move together. Clip leaves pieces that already overlap alone."
+  "version": "1.0.640",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.640-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.640-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "3D mouse: middle-drag pans, right-drag orbits (right click without dragging opens the menu); left is the select tool."
 }
