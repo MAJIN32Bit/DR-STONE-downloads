@@ -1,6 +1,6 @@
 {
-  "version": "1.0.640",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.640-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.640-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "3D mouse: middle-drag pans, right-drag orbits (right click without dragging opens the menu); left is the select tool."
+  "version": "1.0.641",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.641-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.641-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "3D look only: where an apron's end meets a waterfall leg (two folded pieces meeting at a standing corner), both are shown cut at 45° so the corner reads as a clean miter. Cutting files don't change."
 }
