@@ -1,6 +1,6 @@
 {
-  "version": "1.0.629",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.629-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.629-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Layouts open 1 for 1: pieces no longer shift when slab photos load. Send to 3D moved to the pieces bar. Show Pieces / 3D / Slabs toggles in the top bar."
+  "version": "1.0.630",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.630-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.630-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "3D folding: Fold down / Fold up, then click the side to fold on (several in a row; Esc ends). Blue seam folds as a 45 degree miter, black seam square."
 }
