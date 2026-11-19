@@ -1,6 +1,6 @@
 {
-  "version": "1.0.630",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.630-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.630-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "3D folding: Fold down / Fold up, then click the side to fold on (several in a row; Esc ends). Blue seam folds as a 45 degree miter, black seam square."
+  "version": "1.0.631",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.631-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.631-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "3D rebuilt: pieces are real solids, every blue side is cut 45° so the bottom is smaller. Click close to a side of a piece in 3D to pick it (yellow), then Down arrow folds it down on that side, Up goes back flat, Up again folds it up. Folds chain (top, waterfall, return). Right-click: Fold all blue lines down, Flatten all. SketchUp-style orbit and pan."
 }
