@@ -1,6 +1,6 @@
 {
-  "version": "1.0.635",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.635-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.635-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "3D: folding a piece moves only that piece and the pieces you folded off it. Pieces next to it that you haven't folded stay where they lie."
+  "version": "1.0.636",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.636-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.636-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "3D: Ctrl-click several pieces (for example a leg, its apron and return), click a yellow side and press Down: they fold together as one. Pieces not selected let go."
 }
