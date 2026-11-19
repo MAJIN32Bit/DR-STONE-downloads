@@ -1,6 +1,6 @@
 {
-  "version": "1.0.637",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.637-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.637-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "3D: new Raise box. Select pieces in 3D, type how many inches up they sit (for example 12 for a transaction top over the work surface) and press Enter. Pieces folded off them go up too; 0 puts them back down."
+  "version": "1.0.638",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.638-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.638-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "3D: drag a piece to move it (Shift+drag = up and down); pieces folded off it come along. Drag on empty space for a selection box (left to right = inside, right to left = touching). Clip toggle: on, a dragged piece climbs onto what's under it; off, pieces pass through. Orbit is now right- or middle-drag, Shift pans. Moves are 3D only."
 }
