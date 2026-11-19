@@ -1,6 +1,6 @@
 {
-  "version": "1.0.628",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.628-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.628-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "3D: Fold down (waterfall legs, returns) and Fold up (splashes) on the seam with another piece; solid 3D drawing; click a piece in 3D to select it; thickness box (0.75 default); Front view."
+  "version": "1.0.629",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.629-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.629-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Layouts open 1 for 1: pieces no longer shift when slab photos load. Send to 3D moved to the pieces bar. Show Pieces / 3D / Slabs toggles in the top bar."
 }
