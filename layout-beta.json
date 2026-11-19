@@ -1,6 +1,6 @@
 {
-  "version": "1.0.626",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.626-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.626-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Duplicate slab: unlock the slabs, right-click a slab, Duplicate slab. The copy says DUPLICATED SLAB above it and the slab side counts Extra slabs needed, to tell management how many more to order."
+  "version": "1.0.627",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.627-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.627-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Fixed the crash on Send to 3D."
 }
