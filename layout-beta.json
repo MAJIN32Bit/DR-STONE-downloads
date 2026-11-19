@@ -1,6 +1,6 @@
 {
-  "version": "1.0.634",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.634-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.634-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Pop out: each section (Pieces, 3D, Slab side) has a Pop out button that moves it to its own window; Pop in or closing that window puts it back. 3D: a selected piece shows a thick yellow line on every side; click one to pick the side to fold on (it turns orange-red), then the arrow keys fold. Nothing shows when no piece is selected."
+  "version": "1.0.635",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.635-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.635-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "3D: folding a piece moves only that piece and the pieces you folded off it. Pieces next to it that you haven't folded stay where they lie."
 }
