@@ -1,6 +1,6 @@
 {
-  "version": "1.0.632",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.632-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.632-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "3D stone is sharper: the slab photo is used up to 4,096 pixels wide (was 2,000), blended smoothly instead of blocky, and smaller copies are used for pieces seen small so the stone doesn't sparkle."
+  "version": "1.0.633",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.633-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.633-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Pieces removed from 3D, or Clear 3D, now come back flat next time (their folds are reset)."
 }
