@@ -1,6 +1,6 @@
 {
-  "version": "1.0.678",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.678-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.678-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Brings in the normal 1.0.676: Help > What's new (last 10 updates): see what changed in each of the last 10 updates, newest first, with dates."
+  "version": "1.0.684",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.684-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.684-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Brings in the normal 1.0.681: CAD Print: with lines selected, Selected lines only prints just the selection (nothing else nearby)."
 }
