@@ -1,6 +1,6 @@
 {
-  "version": "1.0.694",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.694-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.694-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.693: Layout 3D waterfall fit: the top's apron and the waterfall's apron meet on a 45° like a picture frame, nothing pokes through the top, and the waterfall's returns stop just under the top. 3D only; pieces side and DXF unchanged."
+  "version": "1.0.698",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.698-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.698-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.697: Layout 3D: Seams button hides the lines where pieces meet flush (3D only); zoom glides smoothly; the light stays fixed so shading doesn't change as you turn the view."
 }
