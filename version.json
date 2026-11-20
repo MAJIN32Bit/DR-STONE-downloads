@@ -1,6 +1,6 @@
 {
-  "version": "1.0.643",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.643/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.643/NewEraCAD.zip",
-  "notes": "Laser center line point: the circle-and-cross mark from the laser now comes in from the DXF, shows on the drawing, snaps to its exact center, and saves with the job."
+  "version": "1.0.645",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.645/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.645/NewEraCAD.zip",
+  "notes": "The laser's center line mark is now a real 1-inch circle with a cross that zooms with the drawing. Click inside it to select it."
 }
