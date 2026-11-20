@@ -1,6 +1,6 @@
 {
-  "version": "1.0.667",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.667-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.667-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.666: Layout: Inventory button now sits on top of the slab side. Pieces side has template groups (Group 1, Group 2...): a new import adds to the current group or starts the next one; right-click > Move to group."
+  "version": "1.0.671",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.671-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.671-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in 1.0.670 (tags for folds)."
 }
