@@ -1,6 +1,6 @@
 {
-  "version": "1.0.680",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.680/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.680/NewEraCAD.zip",
-  "notes": "Admin / User: with an Admin file open, a User can't Save or Save As (CAD jobs and layouts)."
+  "version": "1.0.681",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.681/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.681/NewEraCAD.zip",
+  "notes": "CAD Print: with lines selected, Selected lines only prints just the selection (nothing else nearby)."
 }
