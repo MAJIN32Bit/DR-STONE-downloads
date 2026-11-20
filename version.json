@@ -1,6 +1,6 @@
 {
-  "version": "1.0.672",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.672/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.672/NewEraCAD.zip",
-  "notes": "Layout: opening a job opens its saved layout wherever it was saved. A named piece shows only its name (no #N in front)."
+  "version": "1.0.675",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.675/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.675/NewEraCAD.zip",
+  "notes": "Layout: opening a job opens its saved layout wherever it was saved; a named piece shows only its name (no #N); pieces not on a slab yet have diagonal grey stripes. Apron tool Waterfall: the leg is as wide as its line (type only the height), with an apron and return on each side, each sized, plus a full return; Tag as picks a parent line with points 1 2 3; Layout names tagged pieces Part N Apron / SPL / Waterfall."
 }
