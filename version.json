@@ -1,6 +1,6 @@
 {
-  "version": "1.0.679",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.679/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.679/NewEraCAD.zip",
-  "notes": "Line tool: new Break line box. Tick it and a line you draw breaks every line and arc it crosses (or ends on) right there, for seams; the new line stays one plain line. One Ctrl+Z undoes it all."
+  "version": "1.0.680",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.680/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.680/NewEraCAD.zip",
+  "notes": "Admin / User: with an Admin file open, a User can't Save or Save As (CAD jobs and layouts)."
 }
