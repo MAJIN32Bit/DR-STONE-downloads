@@ -1,6 +1,6 @@
 {
-  "version": "1.0.686",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.686/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.686/NewEraCAD.zip",
-  "notes": "Layout: green seam lines show SEAM along the inside of the piece. Snap together: Space snaps like Enter."
+  "version": "1.0.688",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.688/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.688/NewEraCAD.zip",
+  "notes": "Seam tag: right-click a seam line > Tag as > Seam, then click the other half's seam line (1 2 3 to line up points). Layout 3D brings the two pieces together flat at that seam, even when split apart or turned for nesting. Copies pair with their own copy."
 }
