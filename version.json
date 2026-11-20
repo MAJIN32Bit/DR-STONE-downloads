@@ -1,6 +1,6 @@
 {
-  "version": "1.0.645",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.645/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.645/NewEraCAD.zip",
-  "notes": "The laser's center line mark is now a real 1-inch circle with a cross that zooms with the drawing. Click inside it to select it."
+  "version": "1.0.657",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.657/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.657/NewEraCAD.zip",
+  "notes": "New: the Layout tab (CAD | Layout switch at the top right). Lay the job's pieces out on its slab photos, see them in 3D, and print a sawyer's sheet (File > Print on the Layout tab). The CAD side works as before."
 }
