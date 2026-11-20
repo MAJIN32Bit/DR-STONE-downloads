@@ -1,6 +1,6 @@
 {
-  "version": "1.0.664",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.664-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.664-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Brings in the normal 1.0.662: Admin / User access is low-key now: a small User or Admin label at the bottom right (click it to switch), no badge or yellow bar."
+  "version": "1.0.668",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.668-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.668-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Brings in the normal 1.0.666: Layout: Inventory button now sits on top of the slab side. Pieces side has template groups (Group 1, Group 2...): a new import adds to the current group or starts the next one; right-click > Move to group."
 }
