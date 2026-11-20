@@ -1,6 +1,6 @@
 {
-  "version": "1.0.657",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.657/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.657/NewEraCAD.zip",
-  "notes": "New: the Layout tab (CAD | Layout switch at the top right). Lay the job's pieces out on its slab photos, see them in 3D, and print a sawyer's sheet (File > Print on the Layout tab). The CAD side works as before."
+  "version": "1.0.660",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.660/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.660/NewEraCAD.zip",
+  "notes": "Admin and User access: each computer is a User unless switched to Admin in Settings > Access (shop PIN). Files made by an Admin open view only on a User computer (yellow bar, Save a copy), on the CAD and Layout tabs. Older files count as Admin."
 }
