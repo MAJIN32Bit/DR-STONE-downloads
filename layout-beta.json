@@ -1,6 +1,6 @@
 {
-  "version": "1.0.684",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.684-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.684-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Brings in the normal 1.0.681: CAD Print: with lines selected, Selected lines only prints just the selection (nothing else nearby)."
+  "version": "1.0.689",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.689-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.689-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Brings in the normal 1.0.686: Layout: green seam lines show SEAM along the inside of the piece. Snap together: Space snaps like Enter."
 }
