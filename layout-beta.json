@@ -1,6 +1,6 @@
 {
-  "version": "1.0.650",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.650-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.650-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Settings > Layout quick keys: pick your own keys for the Layout tools, in three sections (Pieces, 3D, Slabs). Clear takes a key off, Reset to defaults brings the usual ones back."
+  "version": "1.0.651",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.651-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.651-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "File > Print (Ctrl+P) on the Layout tab: page 1 job details (Contractor, Job name, Job number, printed date and time, notes, slab list), page 2 the pieces from above in their stone, then one page per slab with a Cut box. Opens in your PDF viewer to print. File > Save print as PDF keeps a copy. The CAD print is unchanged."
 }
