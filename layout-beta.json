@@ -1,6 +1,6 @@
 {
-  "version": "1.0.653",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.653-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.653-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "File > Print on the Layout tab is now its own Print window: preview every page, change the first page's Contractor, Job name, Job number and Notes, turn the pieces page and each slab on or off, pick the printer, Properties and copies, then Print straight to the printer (or Save PDF). The 3D section gets its own blue box when it's the one in use, so its quick keys stay its own."
+  "version": "1.0.654",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.654-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.654-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Layout Print: Contractor and Job name autofill from the same names as the CAD print; the Job number box is gone (put it in Job name). Settings > Layout piece fill: a slider for how see-through the green over pieces on the slab side is."
 }
