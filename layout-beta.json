@@ -1,6 +1,6 @@
 {
-  "version": "1.0.654",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.654-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.654-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Layout Print: Contractor and Job name autofill from the same names as the CAD print; the Job number box is gone (put it in Job name). Settings > Layout piece fill: a slider for how see-through the green over pieces on the slab side is."
+  "version": "1.0.655",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.655-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.655-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Layout Print: AC (already cut) areas show on the slab pages, red with -ALREADY CUT- as on the slab side."
 }
