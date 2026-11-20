@@ -1,6 +1,6 @@
 {
-  "version": "1.0.693",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.693/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.693/NewEraCAD.zip",
-  "notes": "Layout 3D waterfall fit: the top's apron and the waterfall's apron meet on a 45° like a picture frame, nothing pokes through the top, and the waterfall's returns stop just under the top. 3D only; pieces side and DXF unchanged."
+  "version": "1.0.696",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.696/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.696/NewEraCAD.zip",
+  "notes": "Layout 3D looks smooth: edges stay sharp while orbiting and are smooth at any angle when still."
 }
