@@ -1,6 +1,6 @@
 {
-  "version": "1.0.665",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.665/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.665/NewEraCAD.zip",
-  "notes": "Layout: on an Admin's layout a User can move pieces as suggestions but can't save; an Admin signs in on that computer to save them."
+  "version": "1.0.666",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.666/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.666/NewEraCAD.zip",
+  "notes": "Layout: Inventory button now sits on top of the slab side. Pieces side has template groups (Group 1, Group 2...): a new import adds to the current group or starts the next one; right-click > Move to group."
 }
