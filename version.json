@@ -1,6 +1,6 @@
 {
-  "version": "1.0.660",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.660/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.660/NewEraCAD.zip",
-  "notes": "Admin and User access: each computer is a User unless switched to Admin in Settings > Access (shop PIN). Files made by an Admin open view only on a User computer (yellow bar, Save a copy), on the CAD and Layout tabs. Older files count as Admin."
+  "version": "1.0.661",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.661/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.661/NewEraCAD.zip",
+  "notes": "Print: Contractor and Job Name fill in from the shop's JOB NUMBERS.xlsx (jobs from 2026 on). Type a job's name or number and Job Name becomes like \"Yanez #26001\" with its contractor. Settings > Job list picks the file."
 }
