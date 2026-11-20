@@ -1,6 +1,6 @@
 {
-  "version": "1.0.648",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.648-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.648-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Pieces side: pieces not on a slab yet are shown plain grey."
+  "version": "1.0.649",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.649-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.649-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "S now turns Snap together on or off on both sides (F3 stays snap points). 3D shows piece names, with a Names toggle in the 3D header."
 }
