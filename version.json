@@ -1,6 +1,6 @@
 {
-  "version": "1.0.685",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.685/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.685/NewEraCAD.zip",
-  "notes": "Tag as: picking the parent line has more grace. The lit line stays lit into corners and next to close lines until you're clearly on another one."
+  "version": "1.0.686",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.686/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.686/NewEraCAD.zip",
+  "notes": "Layout: green seam lines show SEAM along the inside of the piece. Snap together: Space snaps like Enter."
 }
