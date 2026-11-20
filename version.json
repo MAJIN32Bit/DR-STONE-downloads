@@ -1,6 +1,6 @@
 {
-  "version": "1.0.690",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.690/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.690/NewEraCAD.zip",
-  "notes": "Import from CAD: each picked piece shows the name it will get (grey ghost name, or your typed name) on the drawing."
+  "version": "1.0.692",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.692/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.692/NewEraCAD.zip",
+  "notes": "Layout 3D stays put: moving or turning pieces on the pieces side no longer moves them in 3D. Pieces sit where they were drawn in CAD, plus their own 3D moves, folds and seam tags."
 }
