@@ -1,11 +1,11 @@
 # New Era CAD downloads
 
-**Newest version: 1.0.688**
+**Newest version: 1.0.690**
 
 - **Install:** [Download NewEraCAD-Setup.exe](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD-Setup.exe) and run it (no admin password needed). It adds Start menu and desktop shortcuts, and .nec jobs open with a double-click.
 - **Or without installing:** [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
 
-What's new: Seam tag: right-click a seam line > Tag as > Seam, then click the other half's seam line (1 2 3 to line up points). Layout 3D brings the two pieces together flat at that seam, even when split apart or turned for nesting. Copies pair with their own copy.
+What's new: Import from CAD: each picked piece shows the name it will get (grey ghost name, or your typed name) on the drawing.
 
 Older versions and their notes: [Releases](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases).
 
