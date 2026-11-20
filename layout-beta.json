@@ -1,6 +1,6 @@
 {
-  "version": "1.0.656",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.656-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.656-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Piece fill on the slab side is 8% by default (Settings > Layout piece fill still changes it)."
+  "version": "1.0.658",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.658-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.658-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Brings in the normal 1.0.657: the Layout tab in the normal build."
 }
