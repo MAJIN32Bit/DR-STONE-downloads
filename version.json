@@ -1,6 +1,6 @@
 {
-  "version": "1.0.681",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.681/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.681/NewEraCAD.zip",
-  "notes": "CAD Print: with lines selected, Selected lines only prints just the selection (nothing else nearby)."
+  "version": "1.0.683",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.683/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.683/NewEraCAD.zip",
+  "notes": "Tags now copy with their pieces: copied, moved, mirrored or seam-split pieces keep their apron/splash/waterfall folds in Layout 3D, each on its own copy."
 }
