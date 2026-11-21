@@ -1,6 +1,6 @@
 {
-  "version": "1.0.718",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.718-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.718-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.717: Layout: faint side labels on parent pieces (SPL A, Apron) on the pieces and slab sides. Right-click a side > Name this side (e.g. Sink side) renames the strip on it (Desk Sink side SPL). Stand up keeps the heights from the drawing, so a fireplace top and bottom keep their opening."
+  "version": "1.0.722",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.722-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.722-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.720: Layout: side labels are now yellow with a black outline, like the piece names."
 }
