@@ -1,6 +1,6 @@
 {
-  "version": "1.0.704",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.704/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.704/NewEraCAD.zip",
-  "notes": "Tag tool: lines already tagged are highlighted by kind (apron blue, splash green, waterfall purple, return amber, seam pink), and a toggle shows dotted lines from each tagged line to its parent line."
+  "version": "1.0.705",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.705/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.705/NewEraCAD.zip",
+  "notes": "Import from CAD: click a text again to take its name back off the piece (for a text clicked by mistake)."
 }
