@@ -1,6 +1,6 @@
 {
-  "version": "1.0.728",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.728/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.728/NewEraCAD.zip",
-  "notes": "Layout 3D clean-up: Raise, Clip, Align faces and Clear are off the 3D bar (Align faces and Clear 3D stay in the right-click menu). Hide Text starts on. Move (type XYZ), Lay flat, Fold all blue lines down and Flatten all are off the right-click menu. Folding with the arrow keys now turns 90 degrees a step all the way round."
+  "version": "1.0.729",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.729/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.729/NewEraCAD.zip",
+  "notes": "Layout 3D: right-click > Send to zero… asks for X, Y or Z. Then click a face, and its piece or whole group moves so that face sits at that zero, like the underside of an island to Z = 0. It replaces the To Z0 button."
 }
