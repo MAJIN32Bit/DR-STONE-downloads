@@ -1,11 +1,11 @@
 # New Era CAD downloads
 
-**Newest version: 1.0.730**
+**Newest version: 1.0.731**
 
 - **Install:** [Download NewEraCAD-Setup.exe](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD-Setup.exe) and run it (no admin password needed). It adds Start menu and desktop shortcuts, and .nec jobs open with a double-click.
 - **Or without installing:** [Download NewEraCAD.zip](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/latest/download/NewEraCAD.zip), extract it, and double-click New Era CAD.exe.
 
-What's new: Layout: an island with its waterfall leg, aprons and returns goes to the slab side with every seam opened evenly (a strip touching the top only at a corner now opens from its own leg). Layout 3D: Clear 3D asks first.
+What's new: Layout 3D: Send to zero stays on after each face, so you can send several pieces in a row. Esc ends it.
 
 Older versions and their notes: [Releases](https://github.com/MAJIN32Bit/DR-STONE-downloads/releases).
 
