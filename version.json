@@ -1,6 +1,6 @@
 {
-  "version": "1.0.729",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.729/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.729/NewEraCAD.zip",
-  "notes": "Layout 3D: right-click > Send to zero… asks for X, Y or Z. Then click a face, and its piece or whole group moves so that face sits at that zero, like the underside of an island to Z = 0. It replaces the To Z0 button."
+  "version": "1.0.730",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.730/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.730/NewEraCAD.zip",
+  "notes": "Layout: an island with its waterfall leg, aprons and returns goes to the slab side with every seam opened evenly (a strip touching the top only at a corner now opens from its own leg). Layout 3D: Clear 3D asks first."
 }
