@@ -1,6 +1,6 @@
 {
-  "version": "1.0.708",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.708/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.708/NewEraCAD.zip",
-  "notes": "Layout: right-click a piece > Tag as (for 3D) to tag it right in the Layout (Apron, Splash, Waterfall, Return or Seam): click the side it comes off, then its own side (points 1 2 3). Dotted lines show what's tagged; No tag clears."
+  "version": "1.0.709",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.709/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.709/NewEraCAD.zip",
+  "notes": "Layout Tag as: the second click on the piece's own side now takes (1 2 3 on the parent, then 1 2 3 on the child), and the side under the mouse shows its 1 2 3."
 }
