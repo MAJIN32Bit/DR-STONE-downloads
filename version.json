@@ -1,6 +1,6 @@
 {
-  "version": "1.0.700",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.700/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.700/NewEraCAD.zip",
-  "notes": "Import DXF window opens right away (Quick access and drives fill in just after). Layout: the Names buttons are now Hide Text, and they also hide the SEAM words (the green seam lines stay)."
+  "version": "1.0.703",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.703/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.703/NewEraCAD.zip",
+  "notes": "Tag tool on the right tool bar: pick Apron, Splash, Waterfall, Return or Seam, select the strip's lines, right click, then click the line it came off. It starts over for the next strip with the same kind; Esc ends."
 }
