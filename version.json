@@ -1,6 +1,6 @@
 {
-  "version": "1.0.725",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.725/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.725/NewEraCAD.zip",
-  "notes": "Layout 3D: To Z0. Click the button or right-click, then click a face, like the underside of an island. Its piece, or its whole 3D group, moves up or down so that face sits at Z0. Esc now also stops Align faces and To Z0."
+  "version": "1.0.728",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.728/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.728/NewEraCAD.zip",
+  "notes": "Layout 3D clean-up: Raise, Clip, Align faces and Clear are off the 3D bar (Align faces and Clear 3D stay in the right-click menu). Hide Text starts on. Move (type XYZ), Lay flat, Fold all blue lines down and Flatten all are off the right-click menu. Folding with the arrow keys now turns 90 degrees a step all the way round."
 }
