@@ -1,6 +1,6 @@
 {
-  "version": "1.0.714",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.714/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.714/NewEraCAD.zip",
-  "notes": "Layout: selecting on the slab side no longer puts the thick highlight on the pieces side and 3D. Tagged pieces come in from CAD snapped onto their parent (no gap), seams too."
+  "version": "1.0.716",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.716/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.716/NewEraCAD.zip",
+  "notes": "Layout 3D: red X, green Y and blue Z axes (Axes button). While dragging pieces, tap X, Y or Z to keep the move on that axis. Right-click > Move… for an exact X, Y, Z. Align faces: click the face that stays, then the face to move; its whole 3D group slides onto that plane. R rotates the selected pieces on X, Y or Z by any angle (90 by default)."
 }
