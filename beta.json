@@ -1,6 +1,6 @@
 {
-  "version": "1.0.722",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.722-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.722-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.720: Layout: side labels are now yellow with a black outline, like the piece names."
+  "version": "1.0.726",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.726-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.726-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.725: Layout 3D: To Z0. Click the button or right-click, then click a face, like the underside of an island. Its piece, or its whole 3D group, moves up or down so that face sits at Z0. Esc now also stops Align faces and To Z0."
 }
