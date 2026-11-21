@@ -1,6 +1,6 @@
 {
-  "version": "1.0.705",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.705/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.705/NewEraCAD.zip",
-  "notes": "Import from CAD: click a text again to take its name back off the piece (for a text clicked by mistake)."
+  "version": "1.0.708",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.708/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.708/NewEraCAD.zip",
+  "notes": "Layout: right-click a piece > Tag as (for 3D) to tag it right in the Layout (Apron, Splash, Waterfall, Return or Seam): click the side it comes off, then its own side (points 1 2 3). Dotted lines show what's tagged; No tag clears."
 }
