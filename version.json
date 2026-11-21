@@ -1,6 +1,6 @@
 {
-  "version": "1.0.697",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.697/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.697/NewEraCAD.zip",
-  "notes": "Layout 3D: Seams button hides the lines where pieces meet flush (3D only); zoom glides smoothly; the light stays fixed so shading doesn't change as you turn the view."
+  "version": "1.0.700",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.700/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.700/NewEraCAD.zip",
+  "notes": "Import DXF window opens right away (Quick access and drives fill in just after). Layout: the Names buttons are now Hide Text, and they also hide the SEAM words (the green seam lines stay)."
 }
