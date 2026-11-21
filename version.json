@@ -1,6 +1,6 @@
 {
-  "version": "1.0.732",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.732/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.732/NewEraCAD.zip",
-  "notes": "Layout: side labels stay one small size and hide when zoomed far out; piece names drop out when too small instead of piling up (pieces, slab and 3D). Layout 3D: right-click > Fold angle… sets how far a piece folds (90 normally). Send to 3D now places pieces where they sit on the pieces side; moving them there afterwards leaves 3D alone."
+  "version": "1.0.733",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.733/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.733/NewEraCAD.zip",
+  "notes": "Layout 3D: Align by points (right-click). Click a face on the piece to move and two of its dots (corners or side middles). Then click a face on the piece that stays and its two dots. The piece and its whole group move and turn to match, with the faces flush. F flips it face to face, and Esc stops."
 }
