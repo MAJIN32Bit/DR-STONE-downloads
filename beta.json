@@ -1,6 +1,6 @@
 {
-  "version": "1.0.706",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.706-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.706-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.705: Import from CAD: click a text again to take its name back off the piece (for a text clicked by mistake)."
+  "version": "1.0.712",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.712-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.712-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.711: Layout 3D: select pieces, right-click > Stand up to stand them on their bottom edge, polished side to the front (a fireplace face; its returns fold back toward the wall). Lay flat puts them back."
 }
