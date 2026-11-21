@@ -1,6 +1,6 @@
 {
-  "version": "1.0.733",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.733/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.733/NewEraCAD.zip",
-  "notes": "Layout 3D: Align by points (right-click). Click a face on the piece to move and two of its dots (corners or side middles). Then click a face on the piece that stays and its two dots. The piece and its whole group move and turn to match, with the faces flush. F flips it face to face, and Esc stops."
+  "version": "1.0.734",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.734/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.734/NewEraCAD.zip",
+  "notes": "Layout 3D: Align by points now works step by step. Click a face and its lines light up. Click a line and its 3 dots show. Pick 2 dots and press Enter. Do the same on the piece it goes to, then Enter aligns them. Esc steps back, and F flips it."
 }
