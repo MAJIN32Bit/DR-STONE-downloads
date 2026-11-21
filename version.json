@@ -1,6 +1,6 @@
 {
-  "version": "1.0.721",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.721/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.721/NewEraCAD.zip",
-  "notes": "Layout 3D: M is a move tool like SketchUp. The arrow keys pick the axis (→ X red, ← Y green, ↑ Z blue, ↓ free) and the pieces turn that color. Type a distance like 2, -1.5 or 3 1/4 and press Enter. Dragging stays on the axis. Esc ends the tool. The Rotate window stays open so you can keep turning. Layout: a piece selected on the pieces side is outlined there again."
+  "version": "1.0.724",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.724/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.724/NewEraCAD.zip",
+  "notes": "Layout: hover a side label (SPL A, Apron, Sink side) to rename that side: right-click it or double-click it, no need to hit the thin line."
 }
