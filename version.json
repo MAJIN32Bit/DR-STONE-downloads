@@ -1,6 +1,6 @@
 {
-  "version": "1.0.709",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.709/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.709/NewEraCAD.zip",
-  "notes": "Layout Tag as: the second click on the piece's own side now takes (1 2 3 on the parent, then 1 2 3 on the child), and the side under the mouse shows its 1 2 3."
+  "version": "1.0.710",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.710/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.710/NewEraCAD.zip",
+  "notes": "Layout 3D camera works like SketchUp: the wheel moves the camera toward what's under the mouse, so you can zoom in under an island; middle-drag slides the camera and right-drag orbits."
 }
