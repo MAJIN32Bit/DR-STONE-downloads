@@ -1,6 +1,6 @@
 {
-  "version": "1.0.731",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.731/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.731/NewEraCAD.zip",
-  "notes": "Layout 3D: Send to zero stays on after each face, so you can send several pieces in a row. Esc ends it."
+  "version": "1.0.732",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.732/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.732/NewEraCAD.zip",
+  "notes": "Layout: side labels stay one small size and hide when zoomed far out; piece names drop out when too small instead of piling up (pieces, slab and 3D). Layout 3D: right-click > Fold angle… sets how far a piece folds (90 normally). Send to 3D now places pieces where they sit on the pieces side; moving them there afterwards leaves 3D alone."
 }
