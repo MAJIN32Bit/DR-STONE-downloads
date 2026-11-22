@@ -1,6 +1,6 @@
 {
-  "version": "1.0.742",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.742/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.742/NewEraCAD.zip",
-  "notes": "Approval link: 3D keeps working when the browser page is zoomed."
+  "version": "1.0.746",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.746/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.746/NewEraCAD.zip",
+  "notes": "Share for approval: new Layout by box (your name, kept on this computer, shown to the customer). Customer page: 3D names no longer pile up on top of each other, and piece names show on the Pieces tab from the start."
 }
