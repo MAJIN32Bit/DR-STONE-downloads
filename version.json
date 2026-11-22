@@ -1,6 +1,6 @@
 {
-  "version": "1.0.736",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.736/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.736/NewEraCAD.zip",
-  "notes": "Layout 3D: while picking for Align by points, the selected group's yellow lines are hidden, so only the face's blue lines show."
+  "version": "1.0.738",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.738/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.738/NewEraCAD.zip",
+  "notes": "Layout: File > Share for approval makes a web link for the customer (3D, pieces, slabs in use, Approve). Preview first; approvals save to Dropbox."
 }
