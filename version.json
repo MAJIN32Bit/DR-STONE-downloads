@@ -1,6 +1,6 @@
 {
-  "version": "1.0.741",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.741/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.741/NewEraCAD.zip",
-  "notes": "Approval link: Names and Dark toggles in 3D; Lines and Names toggles on Pieces."
+  "version": "1.0.742",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.742/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.742/NewEraCAD.zip",
+  "notes": "Approval link: 3D keeps working when the browser page is zoomed."
 }
