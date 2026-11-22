@@ -1,6 +1,6 @@
 {
-  "version": "1.0.738",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.738/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.738/NewEraCAD.zip",
-  "notes": "Layout: File > Share for approval makes a web link for the customer (3D, pieces, slabs in use, Approve). Preview first; approvals save to Dropbox."
+  "version": "1.0.739",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.739/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.739/NewEraCAD.zip",
+  "notes": "Approval link: smoother 3D (no flicker) and sharper Pieces and Slabs pictures."
 }
