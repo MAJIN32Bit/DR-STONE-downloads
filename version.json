@@ -1,6 +1,6 @@
 {
-  "version": "1.0.749",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.749/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.749/NewEraCAD.zip",
-  "notes": "Import DXF window: Import and Cancel buttons always show."
+  "version": "1.0.750",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.750/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.750/NewEraCAD.zip",
+  "notes": "Apron on a bow front or radius: a flat apron as long as the curve, or one that follows it, and Layout 3D shows it bent round the bow. Sink CL: a sink from a file is centered on its cut line. Shape tool: the window comes back after each piece (tick Place more than one for the old way)."
 }
