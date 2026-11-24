@@ -72,7 +72,7 @@ input.bad,textarea.bad{border-color:#c0392b;background:#fff5f4}
 <div class="card"><h2>Splash</h2><p class="s">List each room and the splash height you want (for example 4", 6" or full height).</p><div id="splash"></div></div>
 <div class="card"><h2>Sink and faucet info</h2><p class="s">Tell us about the sink and faucet in each area, or upload photos (spec sheet, box label or the product page).</p>
 <div id="sinks"></div></div>
-<div class="card"><h2>Ready for template</h2><p class="s">Check what is already done. We can template once the cabinets are in and the sink, faucet and appliances are on site.</p><div id="ready"></div>
+<div class="card"><h2>Ready for template</h2><p class="s">Check what is already done. We can template once the cabinets are in and the sink and faucet are on site.</p><div id="ready"></div>
 <label style="margin-top:16px">Anything else we should know? (optional)</label><textarea id="f_notes" placeholder="Gate code, best time to reach you, special requests"></textarea></div>
 <div class="card" id="submitCard"><h2>Review and submit</h2><p class="s">Check your answers, then send them to us.</p><div id="errs"></div><input id="f_web" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-5000px;width:1px;height:1px"><button class="primary" onclick="review()">Review and submit</button>
 <div class="hint" style="margin-top:10px">Your answers are saved on this device as you go, so you can close this page and finish later. Photos are not saved and need to be added again.</div></div>
@@ -220,7 +220,7 @@ ${a.mount=='under'?`<label style="margin-top:14px">Sink edge</label><div class="
 </div>`).join('')+`<button class="add" onclick="sinks.push(mkS());renderSinks()">+ Add area</button>`}
 function addPics(i,inp){for(const f of inp.files)sinks[i].pics.push({url:URL.createObjectURL(f),file:f});renderSinks()}
 renderSinks();
-const READY=[['cab','Cabinets are installed and level'],['sink','Sink and faucet are on site'],['app','Cooktop, range and other appliances are on site'],['old','Old countertops are removed (or there are none)']];
+const READY=[['cab','Cabinets are installed and level'],['sink','Sink and faucet are on site'],['old','Old countertops are removed (or there are none)']];
 const ready={};
 function renderReady(){document.getElementById('ready').innerHTML=READY.map(([k,n])=>`<label class="chk ${ready[k]?'on':''}"><input type="checkbox" ${ready[k]?'checked':''} onchange="ready['${k}']=this.checked;renderReady();save()">${n}</label>`).join('')}
 renderReady();
