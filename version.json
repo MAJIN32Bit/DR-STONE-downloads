@@ -1,6 +1,6 @@
 {
-  "version": "1.0.762",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.762/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.762/NewEraCAD.zip",
-  "notes": "Layout 3D: an apron folds only off the piece it was made off. On an L top in two pieces, an apron touching the other half's apron at the corner no longer turns that half on its side, and each half moves and folds on its own."
+  "version": "1.0.763",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.763/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.763/NewEraCAD.zip",
+  "notes": "Share for approval: the last link made for a job and layout stays in the window to copy again (on every shop computer), and Make new link makes another when you need one."
 }
