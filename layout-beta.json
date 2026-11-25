@@ -1,6 +1,6 @@
 {
-  "version": "1.0.727",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.727-layout/NewEraCADLayoutBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.727-layout/NewEraCAD-LayoutBeta-Setup.exe",
-  "notes": "Brings in the normal 1.0.725: Layout 3D: To Z0. Click the button or right-click, then click a face, like the underside of an island. Its piece, or its whole 3D group, moves up or down so that face sits at Z0. Esc now also stops Align faces and To Z0."
+  "version": "1.0.757",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.757-layout/NewEraCADLayoutBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.757-layout/NewEraCAD-LayoutBeta-Setup.exe",
+  "notes": "Brings in the normal 1.0.755: Tools: clicking a tool puts the cursor in its number box right away with the default highlighted, so the first number you type is never lost."
 }
