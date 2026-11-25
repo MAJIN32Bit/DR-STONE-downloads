@@ -1,6 +1,6 @@
 {
-  "version": "1.0.773",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.773/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.773/NewEraCAD.zip",
-  "notes": "Apron tool: when you pick two lines that meet at a corner, each apron's end line at that corner turns blue too (mitered), along with the near lines."
+  "version": "1.0.775",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.775/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.775/NewEraCAD.zip",
+  "notes": "Layout Print: each slab page has a 'Piece fill on this slab page' slider under the preview (with Reset), so you can make the green lighter or darker per slab. It only changes this print."
 }
