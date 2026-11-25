@@ -1,6 +1,6 @@
 {
-  "version": "1.0.776",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.776/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.776/NewEraCAD.zip",
-  "notes": "Apron tool: an apron's short end line turns blue (mitered) where its wall line meets a blue line or another picked line, so it wraps the corner; next to a black wall line it stays black. View PDF and Pages related to this drawing are now easy to read in dark mode."
+  "version": "1.0.777",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.777/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.777/NewEraCAD.zip",
+  "notes": "Layout 3D: right-click > Detach lets a folded piece (lam, apron, splash) move by itself; it stays where it was and the top no longer comes along. Attach back folds it on again."
 }
