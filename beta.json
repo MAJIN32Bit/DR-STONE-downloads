@@ -1,6 +1,6 @@
 {
-  "version": "1.0.756",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.756-beta/NewEraCADBeta.zip",
-  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.756-beta/NewEraCAD-Beta-Setup.exe",
-  "notes": "Brings in the normal 1.0.755: Tools: clicking a tool puts the cursor in its number box right away with the default highlighted, so the first number you type is never lost."
+  "version": "1.0.767",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.767-beta/NewEraCADBeta.zip",
+  "setup": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.767-beta/NewEraCAD-Beta-Setup.exe",
+  "notes": "Brings in the normal 1.0.766: Share for approval: a link with many slabs no longer fails (Cloudflare's 25 MB limit); the pictures are made smaller to fit."
 }
