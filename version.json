@@ -1,6 +1,6 @@
 {
-  "version": "1.0.766",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.766/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.766/NewEraCAD.zip",
-  "notes": "Share for approval: a link with many slabs no longer fails (Cloudflare's 25 MB limit); the pictures are made smaller to fit."
+  "version": "1.0.769",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.769/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.769/NewEraCAD.zip",
+  "notes": "Layout slab side: open spots show as a dashed outline only, no text."
 }
