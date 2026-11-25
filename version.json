@@ -1,6 +1,6 @@
 {
-  "version": "1.0.761",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.761/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.761/NewEraCAD.zip",
-  "notes": "Customer approval page: the Names button now steps Main (tops and legs only, at first) > All (with splashes, aprons, returns) > Off, on both 3D and Pieces. APPROVED PDFs now include the time, so two approvals on the same day both get saved."
+  "version": "1.0.762",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.762/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.762/NewEraCAD.zip",
+  "notes": "Layout 3D: an apron folds only off the piece it was made off. On an L top in two pieces, an apron touching the other half's apron at the corner no longer turns that half on its side, and each half moves and folds on its own."
 }
