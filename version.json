@@ -1,6 +1,6 @@
 {
-  "version": "1.0.771",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.771/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.771/NewEraCAD.zip",
-  "notes": "Customer approval page: a slab shows whole without scrolling; tapping it opens a big view that fits the screen, click to zoom in on a spot, with labeled Reset view and Close buttons."
+  "version": "1.0.772",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.772/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.772/NewEraCAD.zip",
+  "notes": "Layout Inventory: new 'Search by' next to the search box (Job number by default, Slab ID, Anything). Typing a whole job number now lists only that job's slabs, not slabs whose ID has the same digits."
 }
