@@ -1,6 +1,6 @@
 {
-  "version": "1.0.770",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.770/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.770/NewEraCAD.zip",
-  "notes": "Share for approval: big links are made faster (the pictures are shrunk once, to the right size). AC areas now show on every slab they cover in the link, even when drawn from the open space beside the slab."
+  "version": "1.0.771",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.771/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.771/NewEraCAD.zip",
+  "notes": "Customer approval page: a slab shows whole without scrolling; tapping it opens a big view that fits the screen, click to zoom in on a spot, with labeled Reset view and Close buttons."
 }
