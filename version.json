@@ -1,6 +1,6 @@
 {
-  "version": "1.0.758",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.758/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.758/NewEraCAD.zip",
-  "notes": "Layout: an apron, splash or waterfall made with the tool and then moved away from its line (not copied) still comes in tagged off that line on Import from CAD, snapped back under its piece."
+  "version": "1.0.761",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.761/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.761/NewEraCAD.zip",
+  "notes": "Customer approval page: the Names button now steps Main (tops and legs only, at first) > All (with splashes, aprons, returns) > Off, on both 3D and Pieces. APPROVED PDFs now include the time, so two approvals on the same day both get saved."
 }
