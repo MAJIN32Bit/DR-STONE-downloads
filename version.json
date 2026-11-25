@@ -1,6 +1,6 @@
 {
-  "version": "1.0.755",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.755/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.755/NewEraCAD.zip",
-  "notes": "Tools: clicking a tool puts the cursor in its number box right away with the default highlighted, so the first number you type is never lost."
+  "version": "1.0.758",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.758/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.758/NewEraCAD.zip",
+  "notes": "Layout: an apron, splash or waterfall made with the tool and then moved away from its line (not copied) still comes in tagged off that line on Import from CAD, snapped back under its piece."
 }
