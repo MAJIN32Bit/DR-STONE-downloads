@@ -1,6 +1,6 @@
 {
-  "version": "1.0.765",
-  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.765/DRStone.zip",
-  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.765/NewEraCAD.zip",
-  "notes": "Layout slab side: a slab alone in its row has an open spot beside it. Unlock slabs and drag any slab there; the place it left stays open for another slab. Drag a slab under the last row to start a new row; rows with no slabs go away."
+  "version": "1.0.766",
+  "zip": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.766/DRStone.zip",
+  "download": "https://github.com/MAJIN32Bit/DR-STONE-downloads/releases/download/v1.0.766/NewEraCAD.zip",
+  "notes": "Share for approval: a link with many slabs no longer fails (Cloudflare's 25 MB limit); the pictures are made smaller to fit."
 }
